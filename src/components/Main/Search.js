@@ -1,4 +1,4 @@
-import React from "react";
+import React from 'react';
 import {
   Container,
   Row,
@@ -6,7 +6,7 @@ import {
   InputGroup,
   FormControl,
   Button,
-} from "react-bootstrap";
+} from 'react-bootstrap';
 
 function Search() {
   return (

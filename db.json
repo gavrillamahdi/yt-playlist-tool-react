@@ -1,0 +1,1916 @@
+{
+  "playlist": [
+    {
+      "kind": "youtube#playlist",
+      "etag": "foAxklGMjbCyCmixYqybHpfZ684",
+      "id": "PLFIM0718LjIWiihbBIq-SWPU6b6x21Q_2",
+      "snippet": {
+        "publishedAt": "2021-06-25T02:53:16Z",
+        "channelId": "UCkXmLjEr95LVtGuIm3l2dPg",
+        "title": "Belajar LARAVEL 8",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HqAMb6kqlLs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HqAMb6kqlLs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HqAMb6kqlLs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Web Programming UNPAS",
+        "localized": {
+          "title": "Belajar LARAVEL 8",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 24
+      },
+      "player": {
+        "embedHtml": "\u003ciframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLFIM0718LjIWiihbBIq-SWPU6b6x21Q_2\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen\u003e\u003c/iframe\u003e"
+      }
+    }
+  ],
+  "channel": [
+    {
+      "kind": "youtube#channel",
+      "etag": "uw05xob0mcHn1lmW6sJlcHn1y-4",
+      "id": "UCkXmLjEr95LVtGuIm3l2dPg",
+      "snippet": {
+        "title": "Web Programming UNPAS",
+        "description": "WebProgrammingUNPAS\n\nChannel khusus yang membahas mengenai teknologi internet dan pengembangan web / web development, khususnya untuk mahasiswa teknik informatika di Universitas Pasundan Bandung dan umumnya untuk siapa saja yang tertarik.\n\nDikelola secara khusus oleh Sandhika Galih sebagai staf pengajar di Program Studi Teknik Informatika Universitas Pasundan Bandung.\n\nCONTACT :\nhttps://instagram.com/sandhikagalih\nhttps://twitter.com/sandhikagalih\nhttps://linkedin.com/in/sandhikagalih\nhttps://github.com/sandhikagalih\nhttps://codepen.io/sandhikagalih\n\nSUPPORT CHANNEL WEBPROGRAMMINGUNPAS \n\n- Ikuti KELAS ONLINE \"Full Stack Web Designer\" \nhttps://buildwithangga.com/kelas/full...\n\n- Gabung Server Discord WPU \nhttps://discord.gg/S4rrXQU\n\n- Beli Hoodie TitikKoma \nhttp://bit.ly/hoodiewputitikkoma\n\n- Beli T-Shirt TitikKoma\nhttp://bit.ly/kaoswputitikkoma\n\n- Donasi Channel WPU (OVO / GoPay / Dana / LinkAja)\nhttps://saweria.co/sandhikagalih\nhttps://karyakarsa.com/sandhikagalih\n",
+        "customUrl": "webprogrammingunpas",
+        "publishedAt": "2015-01-04T23:18:15Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AKedOLTn3FAeWcd7pgq7Bvz5k9SIDj_ccBbFNbbV15bDUA=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AKedOLTn3FAeWcd7pgq7Bvz5k9SIDj_ccBbFNbbV15bDUA=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AKedOLTn3FAeWcd7pgq7Bvz5k9SIDj_ccBbFNbbV15bDUA=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Web Programming UNPAS",
+          "description": "WebProgrammingUNPAS\n\nChannel khusus yang membahas mengenai teknologi internet dan pengembangan web / web development, khususnya untuk mahasiswa teknik informatika di Universitas Pasundan Bandung dan umumnya untuk siapa saja yang tertarik.\n\nDikelola secara khusus oleh Sandhika Galih sebagai staf pengajar di Program Studi Teknik Informatika Universitas Pasundan Bandung.\n\nCONTACT :\nhttps://instagram.com/sandhikagalih\nhttps://twitter.com/sandhikagalih\nhttps://linkedin.com/in/sandhikagalih\nhttps://github.com/sandhikagalih\nhttps://codepen.io/sandhikagalih\n\nSUPPORT CHANNEL WEBPROGRAMMINGUNPAS \n\n- Ikuti KELAS ONLINE \"Full Stack Web Designer\" \nhttps://buildwithangga.com/kelas/full...\n\n- Gabung Server Discord WPU \nhttps://discord.gg/S4rrXQU\n\n- Beli Hoodie TitikKoma \nhttp://bit.ly/hoodiewputitikkoma\n\n- Beli T-Shirt TitikKoma\nhttp://bit.ly/kaoswputitikkoma\n\n- Donasi Channel WPU (OVO / GoPay / Dana / LinkAja)\nhttps://saweria.co/sandhikagalih\nhttps://karyakarsa.com/sandhikagalih\n"
+        },
+        "country": "ID"
+      },
+      "statistics": {
+        "viewCount": "45916792",
+        "subscriberCount": "550000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "608"
+      }
+    }
+  ],
+  "playlistItem": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "6lu0kyk1pJALK4iPTQ5BcVRwYg0",
+      "id": "UExGSU0wNzE4TGpJV2lpaGJCSXEtU1dQVTZiNngyMVFfMi41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2021-06-25T02:53:25Z",
+        "channelId": "UCkXmLjEr95LVtGuIm3l2dPg",
+        "title": "Belajar Laravel 8 | 1. Intro",
+        "description": "Kali ini kita akan memulai seri baru untuk belajar Laravel 8.. Let's Go!\n\nCHAPTER:\n0:00 Intro\n0:55 Pengertian Laravel?\n1:30 Laravel: Web Application Framework \n3:03 Pembuat/Pendiri Laravel\n3:53 Filosofi Laravel\n4:16 Tujuan Laravel\n5:21 Fitur Utama Laravel\n6:40 Ekosistem Laravel\n7:21 Hasil Website Laravel\n7:55 Pre Requisite (Syarat dasar belajar Laravel)\n10:18 Software Requirements\n\n#Laravel #Laravel8 #TutorialLaravel\n\n---\nLaravel\nhttps://laravel.com/\n\nLaracast\nhttp://laracast.com/\n\n---\n🔥 SUPPORT WPU 🔥\n\n👕 Beli Hoodie & T-Shirt di WPU Coding Gear Official Store 👕\nhttps://shopee.co.id/wpu.codinggearofficial\n\n👾 Gabung Server Discord WPU 👾\nhttps://discord.gg/S4rrXQU\n\n- Donasi Channel WPU (OVO / GoPay / Dana / LinkAja)\nhttps://saweria.co/sandhikagalih\nhttps://karyakarsa.com/sandhikagalih\n\n---\n📢 FOLLOW SOCIAL MEDIA 📢\n- http://instagram.com/sandhikagalih\n- http://twitter.com/sandhikagalih\n- https://github.com/sandhikagalih\n\n---\nUNIVERSITAS PASUNDAN BANDUNG\nhttp://www.unpas.ac.id/\nhttp://www.if.unpas.ac.id/\n\nterimakasih dan #janganlupatitikkoma!\n\n@sandhikagalih",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HqAMb6kqlLs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HqAMb6kqlLs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HqAMb6kqlLs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Web Programming UNPAS",
+        "playlistId": "PLFIM0718LjIWiihbBIq-SWPU6b6x21Q_2",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "HqAMb6kqlLs"
+        },
+        "videoOwnerChannelTitle": "Web Programming UNPAS",
+        "videoOwnerChannelId": "UCkXmLjEr95LVtGuIm3l2dPg"
+      },
+      "contentDetails": {
+        "videoId": "HqAMb6kqlLs",
+        "videoPublishedAt": "2021-06-25T06:30:02Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Ww2SPpvo4ESZ8ahbfx2_Gat3VAs",
+      "id": "UExGSU0wNzE4TGpJV2lpaGJCSXEtU1dQVTZiNngyMVFfMi4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2021-06-28T04:14:17Z",
+        "channelId": "UCkXmLjEr95LVtGuIm3l2dPg",
+        "title": "Belajar Laravel 8 | 2. Instalasi & Konfigurasi",
+        "description": "Menginstall laravel 8 pada sistem operasi MacOS dan Windows\n\n#Laravel #Laravel8 #TutorialLaravel\n\n00:00 Intro\n01:09 Instalasi & Konfigurasi di MacOS\n18:11 Instalasi & Konfigurasi di Windows\n39:56 Penutup\n\n---\nLaravel\nhttps://laravel.com/\n\nLaracast\nhttp://laracast.com/\n\nComposer\nhttps://getcomposer.org/\n\nValet for Windows\nhttps://github.com/cretueusebiu/valet-windows\n\n---\nIkuti Playlist Belajar Laravel 8 Dari Awal : \nhttps://www.youtube.com/playlist?list=PLFIM0718LjIWiihbBIq-SWPU6b6x21Q_2\n\n---\n🔥 SUPPORT WPU 🔥\n\n👕 Beli Hoodie & T-Shirt di WPU Coding Gear Official Store 👕\nhttps://shopee.co.id/wpu.codinggearofficial\n\n👾 Gabung Server Discord WPU 👾\nhttps://discord.gg/S4rrXQU\n\n- Donasi Channel WPU (OVO / GoPay / Dana / LinkAja)\nhttps://saweria.co/sandhikagalih\nhttps://karyakarsa.com/sandhikagalih\n\n---\n📢 FOLLOW SOCIAL MEDIA 📢\n- http://instagram.com/sandhikagalih\n- http://twitter.com/sandhikagalih\n- https://github.com/sandhikagalih\n\n---\nUNIVERSITAS PASUNDAN BANDUNG\nhttp://www.unpas.ac.id/\nhttp://www.if.unpas.ac.id/\n\nterimakasih dan #janganlupatitikkoma!\n\n@sandhikagalih",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pZqk57Xvujs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pZqk57Xvujs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pZqk57Xvujs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pZqk57Xvujs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pZqk57Xvujs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Web Programming UNPAS",
+        "playlistId": "PLFIM0718LjIWiihbBIq-SWPU6b6x21Q_2",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "pZqk57Xvujs"
+        },
+        "videoOwnerChannelTitle": "Web Programming UNPAS",
+        "videoOwnerChannelId": "UCkXmLjEr95LVtGuIm3l2dPg"
+      },
+      "contentDetails": {
+        "videoId": "pZqk57Xvujs",
+        "videoPublishedAt": "2021-06-28T06:00:08Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "mW41KIfcbls_fhDHWcr1tAk9azA",
+      "id": "UExGSU0wNzE4TGpJV2lpaGJCSXEtU1dQVTZiNngyMVFfMi4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2021-07-01T09:55:19Z",
+        "channelId": "UCkXmLjEr95LVtGuIm3l2dPg",
+        "title": "Belajar Laravel 8 | 3. Struktur Folder, Routes & View",
+        "description": "Mempelajari struktur folder, routes dan view pada laravel 8\n\n#Laravel #Laravel8 #TutorialLaravel\n\n00:00 Intro\n01:42 Struktur Folder\n07:21 Routing\n12:48 View\n20:00 Mengirimkan data ke view\n23:00 Penutup\n\n---\nLaravel\nhttps://laravel.com/\n\nLaracast\nhttp://laracast.com/\n\n---\nIkuti Playlist Belajar Laravel 8 Dari Awal : \nhttps://www.youtube.com/playlist?list=PLFIM0718LjIWiihbBIq-SWPU6b6x21Q_2\n\n---\n🔥 SUPPORT WPU 🔥\n\n👕 Beli Hoodie & T-Shirt di WPU Coding Gear Official Store 👕\nhttps://shopee.co.id/wpu.codinggearofficial\n\n👾 Gabung Server Discord WPU 👾\nhttps://discord.gg/S4rrXQU\n\n- Donasi Channel WPU (OVO / GoPay / Dana / LinkAja)\nhttps://saweria.co/sandhikagalih\nhttps://karyakarsa.com/sandhikagalih\n\n---\n📢 FOLLOW SOCIAL MEDIA 📢\n- http://instagram.com/sandhikagalih\n- http://twitter.com/sandhikagalih\n- https://github.com/sandhikagalih\n\n---\nUNIVERSITAS PASUNDAN BANDUNG\nhttp://www.unpas.ac.id/\nhttp://www.if.unpas.ac.id/\n\nterimakasih dan #janganlupatitikkoma!\n\n@sandhikagalih",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/u7zS2XpMpsc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/u7zS2XpMpsc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/u7zS2XpMpsc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/u7zS2XpMpsc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/u7zS2XpMpsc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Web Programming UNPAS",
+        "playlistId": "PLFIM0718LjIWiihbBIq-SWPU6b6x21Q_2",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "u7zS2XpMpsc"
+        },
+        "videoOwnerChannelTitle": "Web Programming UNPAS",
+        "videoOwnerChannelId": "UCkXmLjEr95LVtGuIm3l2dPg"
+      },
+      "contentDetails": {
+        "videoId": "u7zS2XpMpsc",
+        "videoPublishedAt": "2021-07-02T06:01:23Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "TPQCITTPGLQ1zgvTf4SnEvOJdPI",
+      "id": "UExGSU0wNzE4TGpJV2lpaGJCSXEtU1dQVTZiNngyMVFfMi41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2021-07-04T14:44:42Z",
+        "channelId": "UCkXmLjEr95LVtGuIm3l2dPg",
+        "title": "Belajar Laravel 8 | 4. Blade Templating Engine",
+        "description": "Mengenal fitur Blade Templating Engine pada laravel 8\n\n#Laravel #Laravel8 #TutorialLaravel\n\n00:00 Intro\n01:00 Dokumentasi Blade\n03:10 Penggunaan Blade\n10:51 Layouting System\n20:31 Simulasi Blog Posts\n31:28 Single Post\n33:59 Penutup\n\n---\nLaravel\nhttps://laravel.com/\n\nLaracast\nhttp://laracast.com/\n\n---\nIkuti Playlist Belajar Laravel 8 Dari Awal : \nhttps://www.youtube.com/playlist?list=PLFIM0718LjIWiihbBIq-SWPU6b6x21Q_2\n\n---\n🔥 SUPPORT WPU 🔥\n\n👕 Beli Hoodie & T-Shirt di WPU Coding Gear Official Store 👕\nhttps://shopee.co.id/wpu.codinggearofficial\n\n👾 Gabung Server Discord WPU 👾\nhttps://discord.gg/S4rrXQU\n\n- Donasi Channel WPU (OVO / GoPay / Dana / LinkAja)\nhttps://saweria.co/sandhikagalih\nhttps://karyakarsa.com/sandhikagalih\n\n---\n📢 FOLLOW SOCIAL MEDIA 📢\n- http://instagram.com/sandhikagalih\n- http://twitter.com/sandhikagalih\n- https://github.com/sandhikagalih\n\n---\nUNIVERSITAS PASUNDAN BANDUNG\nhttp://www.unpas.ac.id/\nhttp://www.if.unpas.ac.id/\n\nterimakasih dan #janganlupatitikkoma!\n\n@sandhikagalih",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9jrD0wcfq1g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9jrD0wcfq1g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9jrD0wcfq1g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9jrD0wcfq1g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9jrD0wcfq1g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Web Programming UNPAS",
+        "playlistId": "PLFIM0718LjIWiihbBIq-SWPU6b6x21Q_2",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9jrD0wcfq1g"
+        },
+        "videoOwnerChannelTitle": "Web Programming UNPAS",
+        "videoOwnerChannelId": "UCkXmLjEr95LVtGuIm3l2dPg"
+      },
+      "contentDetails": {
+        "videoId": "9jrD0wcfq1g",
+        "videoPublishedAt": "2021-07-05T06:00:02Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ZTn8a-5xR2r7ZkSJZnLiVEsPinY",
+      "id": "UExGSU0wNzE4TGpJV2lpaGJCSXEtU1dQVTZiNngyMVFfMi4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2021-07-08T14:35:36Z",
+        "channelId": "UCkXmLjEr95LVtGuIm3l2dPg",
+        "title": "Belajar Laravel 8 | 5. Model, Collection & Controller",
+        "description": "Membahas mengenai komponen Model & Controller\n\n#Laravel #Laravel8 #TutorialLaravel\n\n00:00 Intro\n01:08 Memperbaiki code video sebelumnya\n04:11 Membuat Model\n18:35 Collection di Laravel\n23:13 Membuat Controller\n31:17 Penutup\n\n---\nLaravel\nhttps://laravel.com/\n\nLaracast\nhttp://laracast.com/\n\n---\nIkuti Playlist Belajar Laravel 8 Dari Awal : \nhttps://www.youtube.com/playlist?list=PLFIM0718LjIWiihbBIq-SWPU6b6x21Q_2\n\n---\n🔥 SUPPORT WPU 🔥\n\n👕 Beli Hoodie & T-Shirt di WPU Coding Gear Official Store 👕\nhttps://shopee.co.id/wpu.codinggearofficial\n\n👾 Gabung Server Discord WPU 👾\nhttps://discord.gg/S4rrXQU\n\n- Donasi Channel WPU (OVO / GoPay / Dana / LinkAja)\nhttps://saweria.co/sandhikagalih\nhttps://karyakarsa.com/sandhikagalih\n\n---\n📢 FOLLOW SOCIAL MEDIA 📢\n- http://instagram.com/sandhikagalih\n- http://twitter.com/sandhikagalih\n- https://github.com/sandhikagalih\n\n---\nUNIVERSITAS PASUNDAN BANDUNG\nhttp://www.unpas.ac.id/\nhttp://www.if.unpas.ac.id/\n\nterimakasih dan #janganlupatitikkoma!\n\n@sandhikagalih",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ptWgufbjURA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ptWgufbjURA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ptWgufbjURA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ptWgufbjURA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ptWgufbjURA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Web Programming UNPAS",
+        "playlistId": "PLFIM0718LjIWiihbBIq-SWPU6b6x21Q_2",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ptWgufbjURA"
+        },
+        "videoOwnerChannelTitle": "Web Programming UNPAS",
+        "videoOwnerChannelId": "UCkXmLjEr95LVtGuIm3l2dPg"
+      },
+      "contentDetails": {
+        "videoId": "ptWgufbjURA",
+        "videoPublishedAt": "2021-07-09T06:00:08Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "rotBOdAOQGucFxHuqbGd8OzYBSg",
+      "id": "UExGSU0wNzE4TGpJV2lpaGJCSXEtU1dQVTZiNngyMVFfMi4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2021-07-12T02:18:46Z",
+        "channelId": "UCkXmLjEr95LVtGuIm3l2dPg",
+        "title": "Belajar Laravel 8 | 6. Database, Migration & Eloquent",
+        "description": "Bekerja dengan database MySQL dan terhubung ke aplikasi laravel 8 kita sebelumnya\n\n#Laravel #Laravel8 #TutorialLaravel\n\n00:00 Intro\n00:33 Environment Variables\n06:03 Persiapan MySQL\n09:30 Migration\n22:27 Eloquent ORM\n34:29 Penutup\n\n---\nLaravel\nhttps://laravel.com/\n\nLaracast\nhttp://laracast.com/\n\nMySQL Workbench\nhttps://www.mysql.com/products/workbench/\n\n---\nIkuti Playlist Belajar Laravel 8 Dari Awal : \nhttps://www.youtube.com/playlist?list=PLFIM0718LjIWiihbBIq-SWPU6b6x21Q_2\n\n---\n🔥 SUPPORT WPU 🔥\n\n👕 Beli Hoodie & T-Shirt di WPU Coding Gear Official Store 👕\nhttps://shopee.co.id/wpu.codinggearofficial\n\n👾 Gabung Server Discord WPU 👾\nhttps://discord.gg/S4rrXQU\n\n- Donasi Channel WPU (OVO / GoPay / Dana / LinkAja)\nhttps://saweria.co/sandhikagalih\nhttps://karyakarsa.com/sandhikagalih\n\n---\n📢 FOLLOW SOCIAL MEDIA 📢\n- http://instagram.com/sandhikagalih\n- http://twitter.com/sandhikagalih\n- https://github.com/sandhikagalih\n\n---\nUNIVERSITAS PASUNDAN BANDUNG\nhttp://www.unpas.ac.id/\nhttp://www.if.unpas.ac.id/\n\nterimakasih dan #janganlupatitikkoma!\n\n@sandhikagalih",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ePBWUZRQdrI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ePBWUZRQdrI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ePBWUZRQdrI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ePBWUZRQdrI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ePBWUZRQdrI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Web Programming UNPAS",
+        "playlistId": "PLFIM0718LjIWiihbBIq-SWPU6b6x21Q_2",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ePBWUZRQdrI"
+        },
+        "videoOwnerChannelTitle": "Web Programming UNPAS",
+        "videoOwnerChannelId": "UCkXmLjEr95LVtGuIm3l2dPg"
+      },
+      "contentDetails": {
+        "videoId": "ePBWUZRQdrI",
+        "videoPublishedAt": "2021-07-12T06:06:15Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-EUXkq6rw9se-z3qNmYQH_c-dNY",
+      "id": "UExGSU0wNzE4TGpJV2lpaGJCSXEtU1dQVTZiNngyMVFfMi41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2021-07-15T14:36:44Z",
+        "channelId": "UCkXmLjEr95LVtGuIm3l2dPg",
+        "title": "Belajar Laravel 8 | 7. Post Model",
+        "description": "Membuat dengan benar Model Post yang sebelumnya kita buat manual, mempelajari juga mengenai Mass Assignment dan juga Route Model Binding\n\n#Laravel #Laravel8 #TutorialLaravel\n\n00:00 Intro\n00:33 Membuat Model Post\n13:29 Blade Escape Character\n17:33 Mass Assignment\n25:48 Route Model Binding\n33:41 Penutup\n\n---\nLaravel\nhttps://laravel.com/\n\nLaracast\nhttp://laracast.com/\n\nMySQL Workbench\nhttps://www.mysql.com/products/workbench/\n\n---\nIkuti Playlist Belajar Laravel 8 Dari Awal : \nhttps://www.youtube.com/playlist?list=PLFIM0718LjIWiihbBIq-SWPU6b6x21Q_2\n\n---\n🔥 SUPPORT WPU 🔥\n\n👕 Beli Hoodie & T-Shirt di WPU Coding Gear Official Store 👕\nhttps://shopee.co.id/wpu.codinggearofficial\n\n👾 Gabung Server Discord WPU 👾\nhttps://discord.gg/S4rrXQU\n\n- Donasi Channel WPU (OVO / GoPay / Dana / LinkAja)\nhttps://saweria.co/sandhikagalih\nhttps://karyakarsa.com/sandhikagalih\n\n---\n📢 FOLLOW SOCIAL MEDIA 📢\n- http://instagram.com/sandhikagalih\n- http://twitter.com/sandhikagalih\n- https://github.com/sandhikagalih\n\n---\nUNIVERSITAS PASUNDAN BANDUNG\nhttp://www.unpas.ac.id/\nhttp://www.if.unpas.ac.id/\n\nterimakasih dan #janganlupatitikkoma!\n\n@sandhikagalih",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/o1em86nhU28/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/o1em86nhU28/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/o1em86nhU28/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/o1em86nhU28/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/o1em86nhU28/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Web Programming UNPAS",
+        "playlistId": "PLFIM0718LjIWiihbBIq-SWPU6b6x21Q_2",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "o1em86nhU28"
+        },
+        "videoOwnerChannelTitle": "Web Programming UNPAS",
+        "videoOwnerChannelId": "UCkXmLjEr95LVtGuIm3l2dPg"
+      },
+      "contentDetails": {
+        "videoId": "o1em86nhU28",
+        "videoPublishedAt": "2021-07-16T06:00:12Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "QCJ_l04ZNwnhlA0iVjATDyd2EYE",
+      "id": "UExGSU0wNzE4TGpJV2lpaGJCSXEtU1dQVTZiNngyMVFfMi5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2021-07-22T09:19:24Z",
+        "channelId": "UCkXmLjEr95LVtGuIm3l2dPg",
+        "title": "Belajar Laravel 8 | 8. Post Category & Eloquent Relationship",
+        "description": "Mempelajari mengenai relasi antar tabel atau model di Laravel 8 menggunakan fitur Eloquent Relationship, sekaligus juga membuat model untuk Category Post kita\n\n#Laravel #Laravel8 #TutorialLaravel\n\n00:00 Intro\n00:49 Membuat Category\n11:18 Eloquent Relationship\n21:19 Implementasi Relationship\n32:05 Membuat halaman Categories\n34:54 Penutup\n\n---\nLaravel\nhttps://laravel.com/\n\nLaracast\nhttp://laracast.com/\n\nMySQL Workbench\nhttps://www.mysql.com/products/workbench/\n\n---\nIkuti Playlist Belajar Laravel 8 Dari Awal : \nhttps://www.youtube.com/playlist?list=PLFIM0718LjIWiihbBIq-SWPU6b6x21Q_2\n\n---\n🔥 SUPPORT WPU 🔥\n\n👕 Beli Hoodie & T-Shirt di WPU Coding Gear Official Store 👕\nhttps://shopee.co.id/wpu.codinggearofficial\n\n👾 Gabung Server Discord WPU 👾\nhttps://discord.gg/S4rrXQU\n\n- Donasi Channel WPU (OVO / GoPay / Dana / LinkAja)\nhttps://saweria.co/sandhikagalih\nhttps://karyakarsa.com/sandhikagalih\n\n---\n📢 FOLLOW SOCIAL MEDIA 📢\n- http://instagram.com/sandhikagalih\n- http://twitter.com/sandhikagalih\n- https://github.com/sandhikagalih\n\n---\nUNIVERSITAS PASUNDAN BANDUNG\nhttp://www.unpas.ac.id/\nhttp://www.if.unpas.ac.id/\n\nterimakasih dan #janganlupatitikkoma!\n\n@sandhikagalih",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HR_Piu6qtoI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HR_Piu6qtoI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HR_Piu6qtoI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HR_Piu6qtoI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HR_Piu6qtoI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Web Programming UNPAS",
+        "playlistId": "PLFIM0718LjIWiihbBIq-SWPU6b6x21Q_2",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "HR_Piu6qtoI"
+        },
+        "videoOwnerChannelTitle": "Web Programming UNPAS",
+        "videoOwnerChannelId": "UCkXmLjEr95LVtGuIm3l2dPg"
+      },
+      "contentDetails": {
+        "videoId": "HR_Piu6qtoI",
+        "videoPublishedAt": "2021-07-23T06:00:08Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "LLww0M_dxvZJLTh6ruO-C3at7xA",
+      "id": "UExGSU0wNzE4TGpJV2lpaGJCSXEtU1dQVTZiNngyMVFfMi45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2021-07-25T13:45:57Z",
+        "channelId": "UCkXmLjEr95LVtGuIm3l2dPg",
+        "title": "Belajar Laravel 8 | 9. Database Seeder",
+        "description": "Mempelajari mengenai penggunaan Database Seeder di Laravel 8\n\n#Laravel #Laravel8 #TutorialLaravel\n\n00:00 Intro\n02:07 Menambahkan link author\n05:18 Menambahkan relasi di tabel post\n07:24 Apa itu database seeding?\n10:03 Membuat seeder\n18:59 Membuat halaman authors\n24:05 Penutup\n\n---\nLaravel\nhttps://laravel.com/\n\nLaracast\nhttp://laracast.com/\n\nMySQL Workbench\nhttps://www.mysql.com/products/workbench/\n\n---\nIkuti Playlist Belajar Laravel 8 Dari Awal : \nhttps://www.youtube.com/playlist?list=PLFIM0718LjIWiihbBIq-SWPU6b6x21Q_2\n\n---\n🔥 SUPPORT WPU 🔥\n\n👕 Beli Hoodie & T-Shirt di WPU Coding Gear Official Store 👕\nhttps://shopee.co.id/wpu.codinggearofficial\n\n👾 Gabung Server Discord WPU 👾\nhttps://discord.gg/S4rrXQU\n\n- Donasi Channel WPU (OVO / GoPay / Dana / LinkAja)\nhttps://saweria.co/sandhikagalih\nhttps://karyakarsa.com/sandhikagalih\n\n---\n📢 FOLLOW SOCIAL MEDIA 📢\n- http://instagram.com/sandhikagalih\n- http://twitter.com/sandhikagalih\n- https://github.com/sandhikagalih\n\n---\nUNIVERSITAS PASUNDAN BANDUNG\nhttp://www.unpas.ac.id/\nhttp://www.if.unpas.ac.id/\n\nterimakasih dan #janganlupatitikkoma!\n\n@sandhikagalih",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aC6MJgsxgrk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aC6MJgsxgrk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aC6MJgsxgrk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aC6MJgsxgrk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aC6MJgsxgrk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Web Programming UNPAS",
+        "playlistId": "PLFIM0718LjIWiihbBIq-SWPU6b6x21Q_2",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "aC6MJgsxgrk"
+        },
+        "videoOwnerChannelTitle": "Web Programming UNPAS",
+        "videoOwnerChannelId": "UCkXmLjEr95LVtGuIm3l2dPg"
+      },
+      "contentDetails": {
+        "videoId": "aC6MJgsxgrk",
+        "videoPublishedAt": "2021-07-26T06:00:00Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "DHPVUdEQyPtVEhScwIHoS1jK4Hc",
+      "id": "UExGSU0wNzE4TGpJV2lpaGJCSXEtU1dQVTZiNngyMVFfMi5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2021-07-27T10:47:48Z",
+        "channelId": "UCkXmLjEr95LVtGuIm3l2dPg",
+        "title": "Belajar Laravel 8 | 10. Factory & Faker",
+        "description": "Mempelajari mengenai penggunaan fitur Factory dan juga Faker pada Laravel 8\n\n#Laravel #Laravel8 #TutorialLaravel\n\n00:00 Intro\n01:14 Apa itu Factory?\n04:23 Apa itu Faker?\n05:47 Mengubah Faker menjadi Bahasa Indonesia\n07:28 Membuat data user menggunakan Factory\n08:38 Membuat Factory untuk Post\n16:05 Menampilkan data Post dari yang paling baru\n18:07 Menampilkan Post berdasarkan Author\n27:36 Penutup\n\n---\nLaravel\nhttps://laravel.com/\n\nLaracast\nhttp://laracast.com/\n\nMySQL Workbench\nhttps://www.mysql.com/products/workbench/\n\n---\nIkuti Playlist Belajar Laravel 8 Dari Awal : \nhttps://www.youtube.com/playlist?list=PLFIM0718LjIWiihbBIq-SWPU6b6x21Q_2\n\n---\n🔥 SUPPORT WPU 🔥\n\n👕 Beli Hoodie & T-Shirt di WPU Coding Gear Official Store 👕\nhttps://shopee.co.id/wpu.codinggearofficial\n\n👾 Gabung Server Discord WPU 👾\nhttps://discord.gg/S4rrXQU\n\n- Donasi Channel WPU (OVO / GoPay / Dana / LinkAja)\nhttps://saweria.co/sandhikagalih\nhttps://karyakarsa.com/sandhikagalih\n\n---\n📢 FOLLOW SOCIAL MEDIA 📢\n- http://instagram.com/sandhikagalih\n- http://twitter.com/sandhikagalih\n- https://github.com/sandhikagalih\n\n---\nUNIVERSITAS PASUNDAN BANDUNG\nhttp://www.unpas.ac.id/\nhttp://www.if.unpas.ac.id/\n\nterimakasih dan #janganlupatitikkoma!\n\n@sandhikagalih",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xXc6Ti7qwi0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xXc6Ti7qwi0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xXc6Ti7qwi0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xXc6Ti7qwi0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xXc6Ti7qwi0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Web Programming UNPAS",
+        "playlistId": "PLFIM0718LjIWiihbBIq-SWPU6b6x21Q_2",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "xXc6Ti7qwi0"
+        },
+        "videoOwnerChannelTitle": "Web Programming UNPAS",
+        "videoOwnerChannelId": "UCkXmLjEr95LVtGuIm3l2dPg"
+      },
+      "contentDetails": {
+        "videoId": "xXc6Ti7qwi0",
+        "videoPublishedAt": "2021-07-28T05:15:01Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ErwhhLzVqHhoixs-pST-obWUejY",
+      "id": "UExGSU0wNzE4TGpJV2lpaGJCSXEtU1dQVTZiNngyMVFfMi40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2021-07-30T02:08:27Z",
+        "channelId": "UCkXmLjEr95LVtGuIm3l2dPg",
+        "title": "Belajar Laravel 8 | 11. N+1 Problem",
+        "description": "Mengetahui mengenai permasalahan yang terjadi pada aplikasi kita yang dinamakan dengan \"N+1 Problem\" dan bagaimana cara mengatasinya\n\n#Laravel #Laravel8 #TutorialLaravel\n\n00:00 Intro\n01:15 Memperbaiki halaman category\n05:14 Apa itu N+1 problem?\n08:50 Install library Clockwork\n12:21 Eager loading\n16:14 Lazy eager loading\n19:49 Penutup\n\n---\nClockwork by itsgoingd\nhttps://github.com/itsgoingd/clockwork\nhttps://underground.works/clockwork/\n\nLaravel\nhttps://laravel.com/\n\nLaracast\nhttp://laracast.com/\n\nMySQL Workbench\nhttps://www.mysql.com/products/workbench/\n\n---\nIkuti Playlist Belajar Laravel 8 Dari Awal : \nhttps://www.youtube.com/playlist?list=PLFIM0718LjIWiihbBIq-SWPU6b6x21Q_2\n\n---\n🔥 SUPPORT WPU 🔥\n\n👕 Beli Hoodie & T-Shirt di WPU Coding Gear Official Store 👕\nhttps://shopee.co.id/wpu.codinggearofficial\n\n👾 Gabung Server Discord WPU 👾\nhttps://discord.gg/S4rrXQU\n\n- Donasi Channel WPU (OVO / GoPay / Dana / LinkAja)\nhttps://saweria.co/sandhikagalih\nhttps://karyakarsa.com/sandhikagalih\n\n---\n📢 FOLLOW SOCIAL MEDIA 📢\n- http://instagram.com/sandhikagalih\n- http://twitter.com/sandhikagalih\n- https://github.com/sandhikagalih\n\n---\nUNIVERSITAS PASUNDAN BANDUNG\nhttp://www.unpas.ac.id/\nhttp://www.if.unpas.ac.id/\n\nterimakasih dan #janganlupatitikkoma!\n\n@sandhikagalih",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/q8FmWY5y0qI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/q8FmWY5y0qI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/q8FmWY5y0qI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/q8FmWY5y0qI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/q8FmWY5y0qI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Web Programming UNPAS",
+        "playlistId": "PLFIM0718LjIWiihbBIq-SWPU6b6x21Q_2",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "q8FmWY5y0qI"
+        },
+        "videoOwnerChannelTitle": "Web Programming UNPAS",
+        "videoOwnerChannelId": "UCkXmLjEr95LVtGuIm3l2dPg"
+      },
+      "contentDetails": {
+        "videoId": "q8FmWY5y0qI",
+        "videoPublishedAt": "2021-07-30T06:15:00Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Ufwris-ZTKHURXHgSg0c2ZMIkGw",
+      "id": "UExGSU0wNzE4TGpJV2lpaGJCSXEtU1dQVTZiNngyMVFfMi5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2021-08-01T13:23:00Z",
+        "channelId": "UCkXmLjEr95LVtGuIm3l2dPg",
+        "title": "Belajar Laravel 8 | 12. Redesign UI",
+        "description": "Memperbaiki tampilan halaman aplikasi blog kita agar lebih fresh lagi\n\n#Laravel #Laravel8 #TutorialLaravel\n\n00:00 Intro\n00:42 Halaman yang akan kita perbaiki\n01:40 Memperbaiki halaman posts\n06:25 Memindahkan eager loading ke model\n07:54 Membuat hero post\n12:14 Menambahkan post image (unsplash api)\n14:23 Membuat card untuk post\n20:08 Menambahkan link ke post category\n23:47 Memperbaiki halaman single post\n33:28 Memperbaiki halaman categories\n41:15 Penutup\n\n---\nLaravel\nhttps://laravel.com/\n\nLaracast\nhttp://laracast.com/\n\nMySQL Workbench\nhttps://www.mysql.com/products/workbench/\n\n---\nIkuti Playlist Belajar Laravel 8 Dari Awal : \nhttps://www.youtube.com/playlist?list=PLFIM0718LjIWiihbBIq-SWPU6b6x21Q_2\n\n---\n🔥 SUPPORT WPU 🔥\n\n👕 Beli Hoodie & T-Shirt di WPU Coding Gear Official Store 👕\nhttps://shopee.co.id/wpu.codinggearofficial\n\n👾 Gabung Server Discord WPU 👾\nhttps://discord.gg/S4rrXQU\n\n- Donasi Channel WPU (OVO / GoPay / Dana / LinkAja)\nhttps://saweria.co/sandhikagalih\nhttps://karyakarsa.com/sandhikagalih\n\n---\n📢 FOLLOW SOCIAL MEDIA 📢\n- http://instagram.com/sandhikagalih\n- http://twitter.com/sandhikagalih\n- https://github.com/sandhikagalih\n\n---\nUNIVERSITAS PASUNDAN BANDUNG\nhttp://www.unpas.ac.id/\nhttp://www.if.unpas.ac.id/\n\nterimakasih dan #janganlupatitikkoma!\n\n@sandhikagalih",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1WDHJorZK9M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1WDHJorZK9M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1WDHJorZK9M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1WDHJorZK9M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1WDHJorZK9M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Web Programming UNPAS",
+        "playlistId": "PLFIM0718LjIWiihbBIq-SWPU6b6x21Q_2",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1WDHJorZK9M"
+        },
+        "videoOwnerChannelTitle": "Web Programming UNPAS",
+        "videoOwnerChannelId": "UCkXmLjEr95LVtGuIm3l2dPg"
+      },
+      "contentDetails": {
+        "videoId": "1WDHJorZK9M",
+        "videoPublishedAt": "2021-08-02T06:00:00Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "IGF0prVdXq7obAbsmHvSH_t9cgo",
+      "id": "UExGSU0wNzE4TGpJV2lpaGJCSXEtU1dQVTZiNngyMVFfMi45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2021-08-06T02:43:53Z",
+        "channelId": "UCkXmLjEr95LVtGuIm3l2dPg",
+        "title": "Belajar Laravel 8 | 13. Searching & Pagination",
+        "description": "Menambahkan fitur Searching dan Pagination pada aplikasi Laravel 8\n\n#Laravel #Laravel8 #TutorialLaravel\n\n00:00 Intro\n00:58 Memperbaiki menu active\n02:21 Membuat form searching\n07:50 Menambahkan query searching\n13:13 Query scope\n24:36 Query filter\n43:46 Memperbaiki halaman posts\n47:56 Membuat fitur pagination\n54:16 Penutup\n\n---\nLaravel\nhttps://laravel.com/\n\nLaracast\nhttp://laracast.com/\n\nMySQL Workbench\nhttps://www.mysql.com/products/workbench/\n\n---\nIkuti Playlist Belajar Laravel 8 Dari Awal : \nhttps://www.youtube.com/playlist?list=PLFIM0718LjIWiihbBIq-SWPU6b6x21Q_2\n\n---\n🔥 SUPPORT WPU 🔥\n\n👕 Beli Hoodie & T-Shirt di WPU Coding Gear Official Store 👕\nhttps://shopee.co.id/wpu.codinggearofficial\n\n👾 Gabung Server Discord WPU 👾\nhttps://discord.gg/S4rrXQU\n\n- Donasi Channel WPU (OVO / GoPay / Dana / LinkAja)\nhttps://saweria.co/sandhikagalih\nhttps://karyakarsa.com/sandhikagalih\n\n---\n📢 FOLLOW SOCIAL MEDIA 📢\n- http://instagram.com/sandhikagalih\n- http://twitter.com/sandhikagalih\n- https://github.com/sandhikagalih\n\n---\nUNIVERSITAS PASUNDAN BANDUNG\nhttp://www.unpas.ac.id/\nhttp://www.if.unpas.ac.id/\n\nterimakasih dan #janganlupatitikkoma!\n\n@sandhikagalih",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YzGH6odpwpc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YzGH6odpwpc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YzGH6odpwpc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YzGH6odpwpc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YzGH6odpwpc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Web Programming UNPAS",
+        "playlistId": "PLFIM0718LjIWiihbBIq-SWPU6b6x21Q_2",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "YzGH6odpwpc"
+        },
+        "videoOwnerChannelTitle": "Web Programming UNPAS",
+        "videoOwnerChannelId": "UCkXmLjEr95LVtGuIm3l2dPg"
+      },
+      "contentDetails": {
+        "videoId": "YzGH6odpwpc",
+        "videoPublishedAt": "2021-08-06T06:00:05Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "QZG17ZJQVkjH5Szk53Ju0TFCpRQ",
+      "id": "UExGSU0wNzE4TGpJV2lpaGJCSXEtU1dQVTZiNngyMVFfMi4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2021-08-09T03:05:35Z",
+        "channelId": "UCkXmLjEr95LVtGuIm3l2dPg",
+        "title": "Belajar Laravel 8 | 14. View Login & Registration",
+        "description": "Membuat view login & registration untuk aplikasi laravel kita\n\n#Laravel #Laravel8 #TutorialLaravel\n\n00:00 Intro\n00:45 Membuat view login\n18:41 Membuat view registrasi\n27:44 Penutup\n\n---\nLaravel\nhttps://laravel.com/\n\nLaracast\nhttp://laracast.com/\n\nMySQL Workbench\nhttps://www.mysql.com/products/workbench/\n\nTema Bootstrap\nhttps://getbootstrap.com/docs/5.1/examples/\n\n---\nIkuti Playlist Belajar Laravel 8 Dari Awal : \nhttps://www.youtube.com/playlist?list=PLFIM0718LjIWiihbBIq-SWPU6b6x21Q_2\n\n---\n🔥 SUPPORT WPU 🔥\n\n👕 Beli Hoodie & T-Shirt di WPU Coding Gear Official Store 👕\nhttps://shopee.co.id/wpu.codinggearofficial\n\n👾 Gabung Server Discord WPU 👾\nhttps://discord.gg/S4rrXQU\n\n- Donasi Channel WPU (OVO / GoPay / Dana / LinkAja)\nhttps://saweria.co/sandhikagalih\nhttps://karyakarsa.com/sandhikagalih\n\n---\n📢 FOLLOW SOCIAL MEDIA 📢\n- http://instagram.com/sandhikagalih\n- http://twitter.com/sandhikagalih\n- https://github.com/sandhikagalih\n\n---\nUNIVERSITAS PASUNDAN BANDUNG\nhttp://www.unpas.ac.id/\nhttp://www.if.unpas.ac.id/\n\nterimakasih dan #janganlupatitikkoma!\n\n@sandhikagalih",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Wf7RliwJxj4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Wf7RliwJxj4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Wf7RliwJxj4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Wf7RliwJxj4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Wf7RliwJxj4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Web Programming UNPAS",
+        "playlistId": "PLFIM0718LjIWiihbBIq-SWPU6b6x21Q_2",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Wf7RliwJxj4"
+        },
+        "videoOwnerChannelTitle": "Web Programming UNPAS",
+        "videoOwnerChannelId": "UCkXmLjEr95LVtGuIm3l2dPg"
+      },
+      "contentDetails": {
+        "videoId": "Wf7RliwJxj4",
+        "videoPublishedAt": "2021-08-09T06:00:05Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "eHcnuV4CcYLTtJahUfXa1qD26fQ",
+      "id": "UExGSU0wNzE4TGpJV2lpaGJCSXEtU1dQVTZiNngyMVFfMi41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2021-08-12T10:31:50Z",
+        "channelId": "UCkXmLjEr95LVtGuIm3l2dPg",
+        "title": "Belajar Laravel 8 | 15. User Registration",
+        "description": "Mengimplementasikan fitur user registration untuk aplikasi laravel kita\n\n#Laravel #Laravel8 #TutorialLaravel\n\n00:00 Intro\n00:31 Membuat route & method register\n02:44 CSRF (Cross-Site Request Forgery)\n06:01 Form Validation\n12:34 Menangani error saat validasi\n19:41 Insert data user\n22:50 Enkripsi password\n25:43 Flash Message\n29:38 Penutup\n\n---\nLaravel\nhttps://laravel.com/\n\nLaracast\nhttp://laracast.com/\n\nMySQL Workbench\nhttps://www.mysql.com/products/workbench/\n\nTema Bootstrap\nhttps://getbootstrap.com/docs/5.1/examples/\n\n---\nIkuti Playlist Belajar Laravel 8 Dari Awal : \nhttps://www.youtube.com/playlist?list=PLFIM0718LjIWiihbBIq-SWPU6b6x21Q_2\n\n---\n🔥 SUPPORT WPU 🔥\n\n👕 Beli Hoodie & T-Shirt di WPU Coding Gear Official Store 👕\nhttps://shopee.co.id/wpu.codinggearofficial\n\n👾 Gabung Server Discord WPU 👾\nhttps://discord.gg/S4rrXQU\n\n- Donasi Channel WPU (OVO / GoPay / Dana / LinkAja)\nhttps://saweria.co/sandhikagalih\nhttps://karyakarsa.com/sandhikagalih\n\n---\n📢 FOLLOW SOCIAL MEDIA 📢\n- http://instagram.com/sandhikagalih\n- http://twitter.com/sandhikagalih\n- https://github.com/sandhikagalih\n\n---\nUNIVERSITAS PASUNDAN BANDUNG\nhttp://www.unpas.ac.id/\nhttp://www.if.unpas.ac.id/\n\nterimakasih dan #janganlupatitikkoma!\n\n@sandhikagalih",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6sIk2sYacTw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6sIk2sYacTw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6sIk2sYacTw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6sIk2sYacTw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6sIk2sYacTw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Web Programming UNPAS",
+        "playlistId": "PLFIM0718LjIWiihbBIq-SWPU6b6x21Q_2",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "6sIk2sYacTw"
+        },
+        "videoOwnerChannelTitle": "Web Programming UNPAS",
+        "videoOwnerChannelId": "UCkXmLjEr95LVtGuIm3l2dPg"
+      },
+      "contentDetails": {
+        "videoId": "6sIk2sYacTw",
+        "videoPublishedAt": "2021-08-13T06:15:00Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8-I6s3C4qTFy5JxXHtRAZ7W3g6A",
+      "id": "UExGSU0wNzE4TGpJV2lpaGJCSXEtU1dQVTZiNngyMVFfMi5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2021-08-15T15:44:48Z",
+        "channelId": "UCkXmLjEr95LVtGuIm3l2dPg",
+        "title": "Belajar Laravel 8 | 16. User Login & Middleware",
+        "description": "Mengimplementasikan fitur user login dan middleware untuk aplikasi laravel kita\n\n#Laravel #Laravel8 #TutorialLaravel\n\n00:00 Intro\n00:36 Konsep Authentication di dalam laravel\n03:00 Mengubah view login\n05:17 Membuat route & method login\n09:57 Otentikasi login\n15:48 Membuat DashboardController\n17:55 Middleware\n21:40 Menerapkan middleware auth\n27:20 Membuat logout\n30:21 Memperbaiki akses halaman dashboard & Named Route\n32:55 Penutup\n\n---\nLaravel\nhttps://laravel.com/\n\nLaracast\nhttp://laracast.com/\n\nMySQL Workbench\nhttps://www.mysql.com/products/workbench/\n\nTema Bootstrap\nhttps://getbootstrap.com/docs/5.1/examples/\n\n---\nIkuti Playlist Belajar Laravel 8 Dari Awal : \nhttps://www.youtube.com/playlist?list=PLFIM0718LjIWiihbBIq-SWPU6b6x21Q_2\n\n---\n🔥 SUPPORT WPU 🔥\n\n👕 Beli Hoodie & T-Shirt di WPU Coding Gear Official Store 👕\nhttps://shopee.co.id/wpu.codinggearofficial\n\n👾 Gabung Server Discord WPU 👾\nhttps://discord.gg/S4rrXQU\n\n- Donasi Channel WPU (OVO / GoPay / Dana / LinkAja)\nhttps://saweria.co/sandhikagalih\nhttps://karyakarsa.com/sandhikagalih\n\n---\n📢 FOLLOW SOCIAL MEDIA 📢\n- http://instagram.com/sandhikagalih\n- http://twitter.com/sandhikagalih\n- https://github.com/sandhikagalih\n\n---\nUNIVERSITAS PASUNDAN BANDUNG\nhttp://www.unpas.ac.id/\nhttp://www.if.unpas.ac.id/\n\nterimakasih dan #janganlupatitikkoma!\n\n@sandhikagalih",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6oHk5d_KpkU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6oHk5d_KpkU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6oHk5d_KpkU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6oHk5d_KpkU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6oHk5d_KpkU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Web Programming UNPAS",
+        "playlistId": "PLFIM0718LjIWiihbBIq-SWPU6b6x21Q_2",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "6oHk5d_KpkU"
+        },
+        "videoOwnerChannelTitle": "Web Programming UNPAS",
+        "videoOwnerChannelId": "UCkXmLjEr95LVtGuIm3l2dPg"
+      },
+      "contentDetails": {
+        "videoId": "6oHk5d_KpkU",
+        "videoPublishedAt": "2021-08-16T06:15:01Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "IUSC9t9fZjkRLZ99-UZmC8Lfpq8",
+      "id": "UExGSU0wNzE4TGpJV2lpaGJCSXEtU1dQVTZiNngyMVFfMi41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2021-08-23T02:32:27Z",
+        "channelId": "UCkXmLjEr95LVtGuIm3l2dPg",
+        "title": "Belajar Laravel 8 | 17. Dashboard UI",
+        "description": "Membuat tampilan untuk halaman dashboard dari blog system kita\n\n#Laravel #Laravel8 #TutorialLaravel\n\n00:00 Intro\n01:04 Download template bootstrap\n03:13 Menghapus controller dashboard\n04:23 Membuat & mengubah view dashboard\n11:50 Mengubah view menjadi layout\n15:25 Menggunakan Feather Icons\n16:44 Membuat halaman My Posts (Resource Controller)\n24:37 Memperbaiki menu yang active\n26:08 Menampilkan data post berdasarkan user yang login\n34:47 Membuat halaman detail post\n43:13 Penutup\n\n---\nLaravel\nhttps://laravel.com/\n\nLaracast\nhttp://laracast.com/\n\nMySQL Workbench\nhttps://www.mysql.com/products/workbench/\n\nTema Bootstrap\nhttps://getbootstrap.com/docs/5.1/examples/\n\n---\nIkuti Playlist Belajar Laravel 8 Dari Awal : \nhttps://www.youtube.com/playlist?list=PLFIM0718LjIWiihbBIq-SWPU6b6x21Q_2\n\n---\n🔥 SUPPORT WPU 🔥\n\n👕 Beli Hoodie & T-Shirt di WPU Coding Gear Official Store 👕\nhttps://shopee.co.id/wpu.codinggearofficial\n\n👾 Gabung Server Discord WPU 👾\nhttps://discord.gg/S4rrXQU\n\n- Donasi Channel WPU (OVO / GoPay / Dana / LinkAja)\nhttps://saweria.co/sandhikagalih\nhttps://karyakarsa.com/sandhikagalih\n\n---\n📢 FOLLOW SOCIAL MEDIA 📢\n- http://instagram.com/sandhikagalih\n- http://twitter.com/sandhikagalih\n- https://github.com/sandhikagalih\n\n---\nUNIVERSITAS PASUNDAN BANDUNG\nhttp://www.unpas.ac.id/\nhttp://www.if.unpas.ac.id/\n\nterimakasih dan #janganlupatitikkoma!\n\n@sandhikagalih",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Glrg5G9OoS8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Glrg5G9OoS8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Glrg5G9OoS8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Glrg5G9OoS8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Glrg5G9OoS8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Web Programming UNPAS",
+        "playlistId": "PLFIM0718LjIWiihbBIq-SWPU6b6x21Q_2",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Glrg5G9OoS8"
+        },
+        "videoOwnerChannelTitle": "Web Programming UNPAS",
+        "videoOwnerChannelId": "UCkXmLjEr95LVtGuIm3l2dPg"
+      },
+      "contentDetails": {
+        "videoId": "Glrg5G9OoS8",
+        "videoPublishedAt": "2021-08-23T06:00:03Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "A_2ScEKBuJvPIfEr8LkGbi4y_aw",
+      "id": "UExGSU0wNzE4TGpJV2lpaGJCSXEtU1dQVTZiNngyMVFfMi4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2021-08-27T01:33:30Z",
+        "channelId": "UCkXmLjEr95LVtGuIm3l2dPg",
+        "title": "Belajar Laravel 8 | 18. Create Post Form",
+        "description": "Membuat tampilan untuk halaman dashboard dari blog system kita\n\n#Laravel #Laravel8 #TutorialLaravel\n\n00:00 Intro\n01:04 Membuat tombol create post\n02:40 Membuat view create\n09:00 Membuat slug otomatis menggunakan Sluggable\n23:40 Membuat combo box Category\n25:49 Membuat editor untuk body menggunakan Trix Editor\n30:52 Menon-aktif kan fitur upload image pada Trix Editor\n32:45 Mencoba mengirimkan data dari form\n34:25 Penutup\n\n---\nLaravel\nhttps://laravel.com/\n\nLaracast\nhttp://laracast.com/\n\nMySQL Workbench\nhttps://www.mysql.com/products/workbench/\n\nLaravel Sluggable\nhttps://github.com/cviebrock/eloquent-sluggable\n\nTrix Editor\nhttps://trix-editor.org/\n\n---\nIkuti Playlist Belajar Laravel 8 Dari Awal : \nhttps://www.youtube.com/playlist?list=PLFIM0718LjIWiihbBIq-SWPU6b6x21Q_2\n\n---\n🔥 SUPPORT WPU 🔥\n\n👕 Beli Hoodie & T-Shirt di WPU Coding Gear Official Store 👕\nhttps://shopee.co.id/wpu.codinggearofficial\n\n👾 Gabung Server Discord WPU 👾\nhttps://discord.gg/S4rrXQU\n\n- Donasi Channel WPU (OVO / GoPay / Dana / LinkAja)\nhttps://saweria.co/sandhikagalih\nhttps://karyakarsa.com/sandhikagalih\n\n---\n📢 FOLLOW SOCIAL MEDIA 📢\n- http://instagram.com/sandhikagalih\n- http://twitter.com/sandhikagalih\n- https://github.com/sandhikagalih\n\n---\nUNIVERSITAS PASUNDAN BANDUNG\nhttp://www.unpas.ac.id/\nhttp://www.if.unpas.ac.id/\n\nterimakasih dan #janganlupatitikkoma!\n\n@sandhikagalih",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rs48iVajzWc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rs48iVajzWc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rs48iVajzWc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Web Programming UNPAS",
+        "playlistId": "PLFIM0718LjIWiihbBIq-SWPU6b6x21Q_2",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "rs48iVajzWc"
+        },
+        "videoOwnerChannelTitle": "Web Programming UNPAS",
+        "videoOwnerChannelId": "UCkXmLjEr95LVtGuIm3l2dPg"
+      },
+      "contentDetails": {
+        "videoId": "rs48iVajzWc",
+        "videoPublishedAt": "2021-08-27T06:00:10Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Yhu8U8A8DJNELnoWhuLrUCI56NM",
+      "id": "UExGSU0wNzE4TGpJV2lpaGJCSXEtU1dQVTZiNngyMVFfMi45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2021-08-30T02:33:15Z",
+        "channelId": "UCkXmLjEr95LVtGuIm3l2dPg",
+        "title": "Belajar Laravel 8 | 19. Validation & Insert Post",
+        "description": "Menambahkan fitur validasi dan juga insert data post di aplikasi blog system kita\n\n#Laravel #Laravel8 #TutorialLaravel\n\n00:00 Intro\n00:23 Validasi form create\n02:24 Menampilkan pesan error\n05:30 Menampilkan inputan lama\n08:58 Menyimpan data ke tabel post\n12:10 Menampilkan pesan sukses-\n14:20 Memperbaiki bagian lain\n17:00 Fitur keamanan trix editor\n18:43 Penutup\n\n---\nLaravel\nhttps://laravel.com/\n\nLaracast\nhttp://laracast.com/\n\nMySQL Workbench\nhttps://www.mysql.com/products/workbench/\n\nLaravel Sluggable\nhttps://github.com/cviebrock/eloquent-sluggable\n\nTrix Editor\nhttps://trix-editor.org/\n\n---\nIkuti Playlist Belajar Laravel 8 Dari Awal : \nhttps://www.youtube.com/playlist?list=PLFIM0718LjIWiihbBIq-SWPU6b6x21Q_2\n\n---\n🔥 SUPPORT WPU 🔥\n\n👕 Beli Hoodie & T-Shirt di WPU Coding Gear Official Store 👕\nhttps://shopee.co.id/wpu.codinggearofficial\n\n👾 Gabung Server Discord WPU 👾\nhttps://discord.gg/S4rrXQU\n\n- Donasi Channel WPU (OVO / GoPay / Dana / LinkAja)\nhttps://saweria.co/sandhikagalih\nhttps://karyakarsa.com/sandhikagalih\n\n---\n📢 FOLLOW SOCIAL MEDIA 📢\n- http://instagram.com/sandhikagalih\n- http://twitter.com/sandhikagalih\n- https://github.com/sandhikagalih\n\n---\nUNIVERSITAS PASUNDAN BANDUNG\nhttp://www.unpas.ac.id/\nhttp://www.if.unpas.ac.id/\n\nterimakasih dan #janganlupatitikkoma!\n\n@sandhikagalih",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WLejN_riW_8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WLejN_riW_8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WLejN_riW_8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WLejN_riW_8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WLejN_riW_8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Web Programming UNPAS",
+        "playlistId": "PLFIM0718LjIWiihbBIq-SWPU6b6x21Q_2",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "WLejN_riW_8"
+        },
+        "videoOwnerChannelTitle": "Web Programming UNPAS",
+        "videoOwnerChannelId": "UCkXmLjEr95LVtGuIm3l2dPg"
+      },
+      "contentDetails": {
+        "videoId": "WLejN_riW_8",
+        "videoPublishedAt": "2021-08-30T06:00:06Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "uTI6cEbcH52sNA0NrbMCFhkXbKo",
+      "id": "UExGSU0wNzE4TGpJV2lpaGJCSXEtU1dQVTZiNngyMVFfMi5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2021-09-06T02:39:03Z",
+        "channelId": "UCkXmLjEr95LVtGuIm3l2dPg",
+        "title": "Belajar Laravel 8 | 20. Update & Delete Post",
+        "description": "Melengkapi CRUD dengan menambahkan fitur update dan juga delete post di aplikasi blog system kita\n\n#Laravel #Laravel8 #TutorialLaravel\n\n00:00 Intro\n00:30 Membuat fitur delete\n08:13 Membuat halaman update\n14:34 Memperbaiki validasi slug\n19:29 Mengubah data\n22:44 Penutup\n\n---\nLaravel\nhttps://laravel.com/\n\nLaracast\nhttp://laracast.com/\n\nMySQL Workbench\nhttps://www.mysql.com/products/workbench/\n\nLaravel Sluggable\nhttps://github.com/cviebrock/eloquent-sluggable\n\nTrix Editor\nhttps://trix-editor.org/\n\n---\nIkuti Playlist Belajar Laravel 8 Dari Awal : \nhttps://www.youtube.com/playlist?list=PLFIM0718LjIWiihbBIq-SWPU6b6x21Q_2\n\n---\n🔥 SUPPORT WPU 🔥\n\n👕 Beli Hoodie & T-Shirt di WPU Coding Gear Official Store 👕\nhttps://shopee.co.id/wpu.codinggearofficial\n\n👾 Gabung Server Discord WPU 👾\nhttps://discord.gg/S4rrXQU\n\n- Donasi Channel WPU (OVO / GoPay / Dana / LinkAja)\nhttps://saweria.co/sandhikagalih\nhttps://karyakarsa.com/sandhikagalih\n\n---\n📢 FOLLOW SOCIAL MEDIA 📢\n- http://instagram.com/sandhikagalih\n- http://twitter.com/sandhikagalih\n- https://github.com/sandhikagalih\n\n---\nUNIVERSITAS PASUNDAN BANDUNG\nhttp://www.unpas.ac.id/\nhttp://www.if.unpas.ac.id/\n\nterimakasih dan #janganlupatitikkoma!\n\n@sandhikagalih",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QW1EpaUnCJ0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QW1EpaUnCJ0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QW1EpaUnCJ0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QW1EpaUnCJ0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QW1EpaUnCJ0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Web Programming UNPAS",
+        "playlistId": "PLFIM0718LjIWiihbBIq-SWPU6b6x21Q_2",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "QW1EpaUnCJ0"
+        },
+        "videoOwnerChannelTitle": "Web Programming UNPAS",
+        "videoOwnerChannelId": "UCkXmLjEr95LVtGuIm3l2dPg"
+      },
+      "contentDetails": {
+        "videoId": "QW1EpaUnCJ0",
+        "videoPublishedAt": "2021-09-06T06:00:06Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "mDAAoo3Gh20OkbsJrbEI_2CDWIU",
+      "id": "UExGSU0wNzE4TGpJV2lpaGJCSXEtU1dQVTZiNngyMVFfMi4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2021-09-13T01:39:00Z",
+        "channelId": "UCkXmLjEr95LVtGuIm3l2dPg",
+        "title": "Belajar Laravel 8 | 21. Upload Image",
+        "description": "Menambahkan fitur UPLOAD IMAGE di aplikasi blog system kita\n\n#Laravel #Laravel8 #TutorialLaravel\n\n00:00 Intro\n00:31 Membuat input file\n04:04 Cara kerja proses upload\n08:18 Konfigurasi file storage\n14:36 Membuat field image di tabel post\n19:16 Validasi image\n24:51 Menampilkan image pada post\n31:41 Penutup\n\n---\nLaravel\nhttps://laravel.com/\n\nLaracast\nhttp://laracast.com/\n\nMySQL Workbench\nhttps://www.mysql.com/products/workbench/\n\nLaravel Sluggable\nhttps://github.com/cviebrock/eloquent-sluggable\n\nTrix Editor\nhttps://trix-editor.org/\n\n---\nIkuti Playlist Belajar Laravel 8 Dari Awal : \nhttps://www.youtube.com/playlist?list=PLFIM0718LjIWiihbBIq-SWPU6b6x21Q_2\n\n---\n🔥 SUPPORT WPU 🔥\n\n👕 Beli Hoodie & T-Shirt di WPU Coding Gear Official Store 👕\nhttps://shopee.co.id/wpu.codinggearofficial\n\n👾 Gabung Server Discord WPU 👾\nhttps://discord.gg/S4rrXQU\n\n- Donasi Channel WPU (OVO / GoPay / Dana / LinkAja)\nhttps://saweria.co/sandhikagalih\nhttps://karyakarsa.com/sandhikagalih\n\n---\n📢 FOLLOW SOCIAL MEDIA 📢\n- http://instagram.com/sandhikagalih\n- http://twitter.com/sandhikagalih\n- https://github.com/sandhikagalih\n\n---\nUNIVERSITAS PASUNDAN BANDUNG\nhttp://www.unpas.ac.id/\nhttp://www.if.unpas.ac.id/\n\nterimakasih dan #janganlupatitikkoma!\n\n@sandhikagalih",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CnqsB0ERlcI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CnqsB0ERlcI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CnqsB0ERlcI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CnqsB0ERlcI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CnqsB0ERlcI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Web Programming UNPAS",
+        "playlistId": "PLFIM0718LjIWiihbBIq-SWPU6b6x21Q_2",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "CnqsB0ERlcI"
+        },
+        "videoOwnerChannelTitle": "Web Programming UNPAS",
+        "videoOwnerChannelId": "UCkXmLjEr95LVtGuIm3l2dPg"
+      },
+      "contentDetails": {
+        "videoId": "CnqsB0ERlcI",
+        "videoPublishedAt": "2021-09-13T06:00:02Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "w-wbzIrLeAiUqSI-sYJg00yYd7s",
+      "id": "UExGSU0wNzE4TGpJV2lpaGJCSXEtU1dQVTZiNngyMVFfMi5GM0Q3M0MzMzY5NTJFNTdE",
+      "snippet": {
+        "publishedAt": "2021-09-19T02:24:56Z",
+        "channelId": "UCkXmLjEr95LVtGuIm3l2dPg",
+        "title": "Belajar Laravel 8 | 22. Preview, Update & Delete Image",
+        "description": "Menambahkan fitur PREVIEW, UPDATE & DELETE IMAGE di aplikasi blog system kita\n\n#Laravel #Laravel8 #TutorialLaravel\n\n00:00 Intro\n00:54 Membuat fitur preview image\n05:57 Update Image\n14:51 Delete Image\n15:52 Penutup\n\n---\nLaravel\nhttps://laravel.com/\n\nLaracast\nhttp://laracast.com/\n\nMySQL Workbench\nhttps://www.mysql.com/products/workbench/\n\nLaravel Sluggable\nhttps://github.com/cviebrock/eloquent-sluggable\n\nTrix Editor\nhttps://trix-editor.org/\n\n---\nIkuti Playlist Belajar Laravel 8 Dari Awal : \nhttps://www.youtube.com/playlist?list=PLFIM0718LjIWiihbBIq-SWPU6b6x21Q_2\n\n---\n🔥 SUPPORT WPU 🔥\n\n👕 Beli Hoodie & T-Shirt di WPU Coding Gear Official Store 👕\nhttps://shopee.co.id/wpu.codinggearofficial\n\n👾 Gabung Server Discord WPU 👾\nhttps://discord.gg/S4rrXQU\n\n- Donasi Channel WPU (OVO / GoPay / Dana / LinkAja)\nhttps://saweria.co/sandhikagalih\nhttps://karyakarsa.com/sandhikagalih\n\n---\n📢 FOLLOW SOCIAL MEDIA 📢\n- http://instagram.com/sandhikagalih\n- http://twitter.com/sandhikagalih\n- https://github.com/sandhikagalih\n\n---\nUNIVERSITAS PASUNDAN BANDUNG\nhttp://www.unpas.ac.id/\nhttp://www.if.unpas.ac.id/\n\nterimakasih dan #janganlupatitikkoma!\n\n@sandhikagalih",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4fDp3vsGSWg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4fDp3vsGSWg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4fDp3vsGSWg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4fDp3vsGSWg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4fDp3vsGSWg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Web Programming UNPAS",
+        "playlistId": "PLFIM0718LjIWiihbBIq-SWPU6b6x21Q_2",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4fDp3vsGSWg"
+        },
+        "videoOwnerChannelTitle": "Web Programming UNPAS",
+        "videoOwnerChannelId": "UCkXmLjEr95LVtGuIm3l2dPg"
+      },
+      "contentDetails": {
+        "videoId": "4fDp3vsGSWg",
+        "videoPublishedAt": "2021-09-20T06:00:01Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "cxpSZXpOwz_H1OvvgeOmNHyqsbE",
+      "id": "UExGSU0wNzE4TGpJV2lpaGJCSXEtU1dQVTZiNngyMVFfMi4zRjM0MkVCRTg0MkYyQTM0",
+      "snippet": {
+        "publishedAt": "2021-09-27T01:26:16Z",
+        "channelId": "UCkXmLjEr95LVtGuIm3l2dPg",
+        "title": "Belajar Laravel 8 | 23. Authorization",
+        "description": "Menambahkan fitur AUTHORIZATION pada aplikasi blog system kita\n\n#Laravel #Laravel8 #TutorialLaravel\n\n---\nLaravel\nhttps://laravel.com/\n\nLaracast\nhttp://laracast.com/\n\nMySQL Workbench\nhttps://www.mysql.com/products/workbench/\n\n\n---\nIkuti Playlist Belajar Laravel 8 Dari Awal : \nhttps://www.youtube.com/playlist?list=PLFIM0718LjIWiihbBIq-SWPU6b6x21Q_2\n\n---\n🔥 SUPPORT WPU 🔥\n\n👕 Beli Hoodie & T-Shirt di WPU Coding Gear Official Store 👕\nhttps://shopee.co.id/wpu.codinggearofficial\n\n👾 Gabung Server Discord WPU 👾\nhttps://discord.gg/S4rrXQU\n\n- Donasi Channel WPU (OVO / GoPay / Dana / LinkAja)\nhttps://saweria.co/sandhikagalih\nhttps://karyakarsa.com/sandhikagalih\n\n---\n📢 FOLLOW SOCIAL MEDIA 📢\n- http://instagram.com/sandhikagalih\n- http://twitter.com/sandhikagalih\n- https://github.com/sandhikagalih\n\n---\nUNIVERSITAS PASUNDAN BANDUNG\nhttp://www.unpas.ac.id/\nhttp://www.if.unpas.ac.id/\n\nterimakasih dan #janganlupatitikkoma!\n\n@sandhikagalih",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OkIa6e3SP2U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OkIa6e3SP2U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OkIa6e3SP2U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OkIa6e3SP2U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OkIa6e3SP2U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Web Programming UNPAS",
+        "playlistId": "PLFIM0718LjIWiihbBIq-SWPU6b6x21Q_2",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "OkIa6e3SP2U"
+        },
+        "videoOwnerChannelTitle": "Web Programming UNPAS",
+        "videoOwnerChannelId": "UCkXmLjEr95LVtGuIm3l2dPg"
+      },
+      "contentDetails": {
+        "videoId": "OkIa6e3SP2U",
+        "videoPublishedAt": "2021-09-27T06:00:09Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3rbHlcggS-JNboprB6VPh8p-zZM",
+      "id": "UExGSU0wNzE4TGpJV2lpaGJCSXEtU1dQVTZiNngyMVFfMi45NzUwQkI1M0UxNThBMkU0",
+      "snippet": {
+        "publishedAt": "2021-10-04T03:55:15Z",
+        "channelId": "UCkXmLjEr95LVtGuIm3l2dPg",
+        "title": "Belajar Laravel 8 | 24. Upload Ke Web Hosting (GRATIS)",
+        "description": "Upload aplikasi laravel kita ke Web Hosting GRATIS di 000webhost.com\n\n#Laravel #Laravel8 #TutorialLaravel\n\n---\nLaravel\nhttps://laravel.com/\n\nLaracast\nhttp://laracast.com/\n\nMySQL Workbench\nhttps://www.mysql.com/products/workbench/\n\n\n---\nIkuti Playlist Belajar Laravel 8 Dari Awal : \nhttps://www.youtube.com/playlist?list=PLFIM0718LjIWiihbBIq-SWPU6b6x21Q_2\n\n---\n🔥 SUPPORT WPU 🔥\n\n👕 Beli Hoodie & T-Shirt di WPU Coding Gear Official Store 👕\nhttps://shopee.co.id/wpu.codinggearofficial\n\n👾 Gabung Server Discord WPU 👾\nhttps://discord.gg/S4rrXQU\n\n- Donasi Channel WPU (OVO / GoPay / Dana / LinkAja)\nhttps://saweria.co/sandhikagalih\nhttps://karyakarsa.com/sandhikagalih\n\n---\n📢 FOLLOW SOCIAL MEDIA 📢\n- http://instagram.com/sandhikagalih\n- http://twitter.com/sandhikagalih\n- https://github.com/sandhikagalih\n\n---\nUNIVERSITAS PASUNDAN BANDUNG\nhttp://www.unpas.ac.id/\nhttp://www.if.unpas.ac.id/\n\nterimakasih dan #janganlupatitikkoma!\n\n@sandhikagalih",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wNmgAm9xvwk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wNmgAm9xvwk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wNmgAm9xvwk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wNmgAm9xvwk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wNmgAm9xvwk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Web Programming UNPAS",
+        "playlistId": "PLFIM0718LjIWiihbBIq-SWPU6b6x21Q_2",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wNmgAm9xvwk"
+        },
+        "videoOwnerChannelTitle": "Web Programming UNPAS",
+        "videoOwnerChannelId": "UCkXmLjEr95LVtGuIm3l2dPg"
+      },
+      "contentDetails": {
+        "videoId": "wNmgAm9xvwk",
+        "videoPublishedAt": "2021-10-04T06:00:28Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "kind": "youtube#video",
+      "etag": "mrOs6-saHkM2V5MKqTV_r1O7_wU",
+      "id": "HqAMb6kqlLs",
+      "contentDetails": {
+        "duration": "PT14M22S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "142845",
+        "likeCount": "3588",
+        "favoriteCount": "0",
+        "commentCount": "455"
+      },
+      "player": {
+        "embedHtml": "\u003ciframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/HqAMb6kqlLs\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen\u003e\u003c/iframe\u003e"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "_JKCD9Ueg6sseT2HGlRlwWGvUuY",
+      "id": "pZqk57Xvujs",
+      "contentDetails": {
+        "duration": "PT40M40S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "115495",
+        "likeCount": "1743",
+        "favoriteCount": "0",
+        "commentCount": "613"
+      },
+      "player": {
+        "embedHtml": "\u003ciframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/pZqk57Xvujs\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen\u003e\u003c/iframe\u003e"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "VQFW_J6AYycMx5k3dc3_Sy7eFoo",
+      "id": "u7zS2XpMpsc",
+      "contentDetails": {
+        "duration": "PT24M11S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "81949",
+        "likeCount": "1351",
+        "favoriteCount": "0",
+        "commentCount": "137"
+      },
+      "player": {
+        "embedHtml": "\u003ciframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/u7zS2XpMpsc\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen\u003e\u003c/iframe\u003e"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "gL2-A059Q6cxongNblKSXuFNVRw",
+      "id": "9jrD0wcfq1g",
+      "contentDetails": {
+        "duration": "PT35M9S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "70415",
+        "likeCount": "1132",
+        "favoriteCount": "0",
+        "commentCount": "167"
+      },
+      "player": {
+        "embedHtml": "\u003ciframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/9jrD0wcfq1g\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen\u003e\u003c/iframe\u003e"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "msM3LTveEiGzl2Xjs7LBKByHOW4",
+      "id": "ptWgufbjURA",
+      "contentDetails": {
+        "duration": "PT32M29S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "50699",
+        "likeCount": "885",
+        "favoriteCount": "0",
+        "commentCount": "110"
+      },
+      "player": {
+        "embedHtml": "\u003ciframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/ptWgufbjURA\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen\u003e\u003c/iframe\u003e"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "WjyZAX7eHDgQcslW2v6hfoPjuNU",
+      "id": "ePBWUZRQdrI",
+      "contentDetails": {
+        "duration": "PT35M24S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "43930",
+        "likeCount": "823",
+        "favoriteCount": "0",
+        "commentCount": "113"
+      },
+      "player": {
+        "embedHtml": "\u003ciframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/ePBWUZRQdrI\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen\u003e\u003c/iframe\u003e"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "xNofCcj8Jm-H5yYeGnLwWjcbGtc",
+      "id": "o1em86nhU28",
+      "contentDetails": {
+        "duration": "PT34M56S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "33872",
+        "likeCount": "610",
+        "favoriteCount": "0",
+        "commentCount": "118"
+      },
+      "player": {
+        "embedHtml": "\u003ciframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/o1em86nhU28\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen\u003e\u003c/iframe\u003e"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "2_1olvlkVUum9eOYo4jH2P8i7HQ",
+      "id": "HR_Piu6qtoI",
+      "contentDetails": {
+        "duration": "PT36M19S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "30106",
+        "likeCount": "634",
+        "favoriteCount": "0",
+        "commentCount": "106"
+      },
+      "player": {
+        "embedHtml": "\u003ciframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/HR_Piu6qtoI\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen\u003e\u003c/iframe\u003e"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "wA11SM0R-yhAmhdqgzC8qGNxXYI",
+      "id": "aC6MJgsxgrk",
+      "contentDetails": {
+        "duration": "PT24M53S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "19015",
+        "likeCount": "448",
+        "favoriteCount": "0",
+        "commentCount": "46"
+      },
+      "player": {
+        "embedHtml": "\u003ciframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/aC6MJgsxgrk\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen\u003e\u003c/iframe\u003e"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "yBtNgOlCFucziUfJz7Bf1oSPQoA",
+      "id": "xXc6Ti7qwi0",
+      "contentDetails": {
+        "duration": "PT28M27S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "15911",
+        "likeCount": "374",
+        "favoriteCount": "0",
+        "commentCount": "96"
+      },
+      "player": {
+        "embedHtml": "\u003ciframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/xXc6Ti7qwi0\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen\u003e\u003c/iframe\u003e"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "8o0SLT4rN3DDV0mBH1QGJjhX1RY",
+      "id": "q8FmWY5y0qI",
+      "contentDetails": {
+        "duration": "PT20M54S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "19584",
+        "likeCount": "559",
+        "favoriteCount": "0",
+        "commentCount": "115"
+      },
+      "player": {
+        "embedHtml": "\u003ciframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/q8FmWY5y0qI\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen\u003e\u003c/iframe\u003e"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "aijFl4C9cYvOHBVxllNW80126gY",
+      "id": "1WDHJorZK9M",
+      "contentDetails": {
+        "duration": "PT42M31S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "24533",
+        "likeCount": "453",
+        "favoriteCount": "0",
+        "commentCount": "110"
+      },
+      "player": {
+        "embedHtml": "\u003ciframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/1WDHJorZK9M\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen\u003e\u003c/iframe\u003e"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "8hCqPn4lXGF7KNEb8Huq2MrVPhY",
+      "id": "YzGH6odpwpc",
+      "contentDetails": {
+        "duration": "PT55M42S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "22769",
+        "likeCount": "487",
+        "favoriteCount": "0",
+        "commentCount": "129"
+      },
+      "player": {
+        "embedHtml": "\u003ciframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/YzGH6odpwpc\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen\u003e\u003c/iframe\u003e"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "zrZhB6JWGT-HyD1X5QzbxOqGbbs",
+      "id": "Wf7RliwJxj4",
+      "contentDetails": {
+        "duration": "PT28M31S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "27726",
+        "likeCount": "454",
+        "favoriteCount": "0",
+        "commentCount": "86"
+      },
+      "player": {
+        "embedHtml": "\u003ciframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/Wf7RliwJxj4\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen\u003e\u003c/iframe\u003e"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ftTTpfoeM1sJcLIcfQZjOYqVg8A",
+      "id": "6sIk2sYacTw",
+      "contentDetails": {
+        "duration": "PT30M24S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "20935",
+        "likeCount": "410",
+        "favoriteCount": "0",
+        "commentCount": "71"
+      },
+      "player": {
+        "embedHtml": "\u003ciframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/6sIk2sYacTw\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen\u003e\u003c/iframe\u003e"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "vzy6q8QvVbuT6pjktB3dW9GzMLo",
+      "id": "6oHk5d_KpkU",
+      "contentDetails": {
+        "duration": "PT33M40S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "27560",
+        "likeCount": "485",
+        "favoriteCount": "0",
+        "commentCount": "91"
+      },
+      "player": {
+        "embedHtml": "\u003ciframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/6oHk5d_KpkU\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen\u003e\u003c/iframe\u003e"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "RnV33syild2upwuBZBCr4pi7w0k",
+      "id": "Glrg5G9OoS8",
+      "contentDetails": {
+        "duration": "PT44M8S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "24973",
+        "likeCount": "431",
+        "favoriteCount": "0",
+        "commentCount": "114"
+      },
+      "player": {
+        "embedHtml": "\u003ciframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/Glrg5G9OoS8\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen\u003e\u003c/iframe\u003e"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "6G_DSnnWPgjgZ6DYGsf-iYilO5g",
+      "id": "rs48iVajzWc",
+      "contentDetails": {
+        "duration": "PT35M11S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "17629",
+        "likeCount": "339",
+        "favoriteCount": "0",
+        "commentCount": "123"
+      },
+      "player": {
+        "embedHtml": "\u003ciframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/rs48iVajzWc\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen\u003e\u003c/iframe\u003e"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "0b084Ty12G0dxMpjNaq5f8veJtM",
+      "id": "WLejN_riW_8",
+      "contentDetails": {
+        "duration": "PT19M35S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "13375",
+        "likeCount": "259",
+        "favoriteCount": "0",
+        "commentCount": "60"
+      },
+      "player": {
+        "embedHtml": "\u003ciframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/WLejN_riW_8\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen\u003e\u003c/iframe\u003e"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "iEKHtk5sL_QNzcgukxPrjMfEgyI",
+      "id": "QW1EpaUnCJ0",
+      "contentDetails": {
+        "duration": "PT23M57S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "14137",
+        "likeCount": "294",
+        "favoriteCount": "0",
+        "commentCount": "89"
+      },
+      "player": {
+        "embedHtml": "\u003ciframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/QW1EpaUnCJ0\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen\u003e\u003c/iframe\u003e"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "tx_zXABmoKgO58xrRWFnYg8qHIc",
+      "id": "CnqsB0ERlcI",
+      "contentDetails": {
+        "duration": "PT32M38S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "18438",
+        "likeCount": "394",
+        "favoriteCount": "0",
+        "commentCount": "71"
+      },
+      "player": {
+        "embedHtml": "\u003ciframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/CnqsB0ERlcI\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen\u003e\u003c/iframe\u003e"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "CXU7S7vHTgxKKBsn_CM4pPUYjZY",
+      "id": "4fDp3vsGSWg",
+      "contentDetails": {
+        "duration": "PT17M25S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "12533",
+        "likeCount": "300",
+        "favoriteCount": "0",
+        "commentCount": "70"
+      },
+      "player": {
+        "embedHtml": "\u003ciframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/4fDp3vsGSWg\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen\u003e\u003c/iframe\u003e"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Y1HJtULDyv556DKM5h6Mv40APks",
+      "id": "OkIa6e3SP2U",
+      "contentDetails": {
+        "duration": "PT45M19S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "15544",
+        "likeCount": "367",
+        "favoriteCount": "0",
+        "commentCount": "86"
+      },
+      "player": {
+        "embedHtml": "\u003ciframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/OkIa6e3SP2U\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen\u003e\u003c/iframe\u003e"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Fhl5i7zytAy7isjEp0EWAb2WF_E",
+      "id": "wNmgAm9xvwk",
+      "contentDetails": {
+        "duration": "PT26M",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "19474",
+        "likeCount": "477",
+        "favoriteCount": "0",
+        "commentCount": "186"
+      },
+      "player": {
+        "embedHtml": "\u003ciframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/wNmgAm9xvwk\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen\u003e\u003c/iframe\u003e"
+      }
+    }
+  ]
+}
