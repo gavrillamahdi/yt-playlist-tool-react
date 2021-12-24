@@ -1,9 +1,14 @@
-import { useState } from 'react';
+import { useState, useEffect, useContext } from 'react';
 import { Button, Navbar, Container } from 'react-bootstrap';
 import ModalApi from './Modal';
+import { StoredKeyContext } from '../../App';
 
 function Header() {
   const [show, setShow] = useState(false);
+  const { storedKey } = useContext(StoredKeyContext);
+  useEffect(() => {
+    if (!storedKey) setShow(true);
+  }, [storedKey]);
 
   return (
     <>

@@ -2,17 +2,20 @@ import React from 'react';
 import Header from './components/Header/Header';
 import Main from './components/Main/Main';
 import Footer from './components/Footer/Footer';
+import { useLocalStorage } from './hooks/useLocalStorage';
 
-const AppContext = React.createContext();
+const StoredKeyContext = React.createContext();
 
 function App() {
+  const [storedKey, setStoredKey] = useLocalStorage('API_KEY', '');
   return (
-    <AppContext.Provider>
+    <StoredKeyContext.Provider value={{ storedKey, setStoredKey }}>
       <Header />
       <Main />
       <Footer />
-    </AppContext.Provider>
+    </StoredKeyContext.Provider>
   );
 }
 
+export { StoredKeyContext };
 export default App;

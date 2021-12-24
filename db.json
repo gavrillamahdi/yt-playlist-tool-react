@@ -81,7 +81,7 @@
       }
     }
   ],
-  "playlistItem": [
+  "playlistItems": [
     {
       "kind": "youtube#playlistItem",
       "etag": "6lu0kyk1pJALK4iPTQ5BcVRwYg0",
