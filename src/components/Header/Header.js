@@ -13,7 +13,12 @@ function Header() {
   return (
     <>
       <header>
-        <Navbar variant="light" bg="danger" className="shadow-sm">
+        <Navbar
+          variant="light"
+          bg="danger"
+          className="shadow-sm"
+          expand={false}
+        >
           <Container fluid>
             <Navbar.Brand as="h1" className="mb-0 text-light mx-4">
               Youtube Playlist Tools
