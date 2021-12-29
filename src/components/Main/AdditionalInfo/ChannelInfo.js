@@ -1,30 +1,63 @@
-import React from 'react';
+import React, { useContext } from 'react';
 import { Col, Card, Image } from 'react-bootstrap';
 
-function ChannelInfo() {
+import { MainContext } from '../Main';
+
+const subsCountPlaceholder = (subs) => {
+  subs = Number(subs);
+  const arrPlaceholder = ['T', 'B', 'M', 'K'];
+  let placeholder = '';
+
+  while (subs > 999) {
+    subs /= 1000;
+    placeholder = arrPlaceholder.pop();
+  }
+  return `${subs}${placeholder}`;
+};
+
+function ChannelInfo({ xsCol = 6 }) {
+  const { dataState } = useContext(MainContext);
+
+  const {
+    channel: {
+      data: {
+        items: [
+          {
+            snippet: {
+              title,
+              thumbnails: {
+                medium: { url },
+              },
+            },
+            statistics: { subscriberCount, videoCount },
+          },
+        ],
+      },
+    },
+  } = dataState;
+
   return (
     <>
       <Col
         md={4}
-        xs={6}
+        xs={xsCol}
         className="my-auto"
         style={{ width: '5vw', maxWidth: '80px', minWidth: '50px' }}
       >
-        <Image
-          fluid
-          roundedCircle
-          src={
-            'https://yt3.ggpht.com/Zv2uW6HRszX6QhU7N-IRq7R7ZPAgINwBmbc36C-kmhFGckbRlWODC17juSPI9CCAOPY0ho8ld-I=s240-c-k-c0x00ffffff-no-rj'
-          }
-          alt={'GabeSweats'}
-        />
+        <Image fluid roundedCircle src={url} alt={title} />
       </Col>
       <Col md xs>
         <Card.Body className="p-2">
-          <Card.Title as="h6" className="m-0">
-            GabeSweats
+          <Card.Title as="h6" className="mb-1">
+            {title}
           </Card.Title>
-          <p className="small h6 text-muted">1.06M subscribers</p>
+          <p className="small h6 text-muted m-0">
+            {subsCountPlaceholder(subscriberCount)} subscriber
+            {subscriberCount > 1 ? 's' : ''}
+          </p>
+          <p className="small h6 text-muted m-0">
+            {videoCount} video{videoCount > 1 ? 's' : ''}
+          </p>
         </Card.Body>
       </Col>
     </>

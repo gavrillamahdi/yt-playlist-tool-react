@@ -1,7 +1,7 @@
-import React from "react";
-import { ReactComponent as Instagram } from "./assets/instagram.svg";
-import { ReactComponent as Twitter } from "./assets/twitter.svg";
-import { ReactComponent as Github } from "./assets/github.svg";
+import React from 'react';
+import { ReactComponent as Instagram } from './assets/instagram.svg';
+import { ReactComponent as Twitter } from './assets/twitter.svg';
+import { ReactComponent as Github } from './assets/github.svg';
 
 function SocialMedia() {
   return (

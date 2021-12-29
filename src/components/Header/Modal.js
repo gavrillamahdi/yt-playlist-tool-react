@@ -49,7 +49,6 @@ function ModalApi({ show, setShow }) {
         }, 500);
       }
     } catch (error) {
-      console.log(error);
       dispatch({ type: 'SET_ERROR', payload: error.message });
       setKey('');
     }

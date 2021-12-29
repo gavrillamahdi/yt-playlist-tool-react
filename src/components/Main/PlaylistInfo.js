@@ -1,19 +1,72 @@
-import React, { useState, useContext, useEffect } from 'react';
+import React, { useContext } from 'react';
 import { Container, Row, Col, Card, ListGroup } from 'react-bootstrap';
-import parse from 'html-react-parser';
 
+import { useIframeProps } from '../../hooks/useIframeProps';
 import { MainContext } from './Main';
+import { repairDuration } from '../../lib/repairDuration';
+
+const countDuration = (items) => {
+  let totalSeconds = 0;
+
+  items.forEach((item) => {
+    const {
+      contentDetails: { duration },
+    } = item;
+    const arr = repairDuration(duration)
+      .split(':')
+      .map((item) => Number(item));
+
+    for (let i = 0; i <= arr.length; i++) {
+      totalSeconds += arr.pop() * 60 ** i;
+    }
+  });
+
+  const hours = Math.floor(totalSeconds / 3600);
+  totalSeconds %= 3600;
+  const minutes = Math.floor(totalSeconds / 60);
+  const seconds = totalSeconds % 60;
+
+  const totalDuration = [hours, minutes, seconds].map((item) => {
+    return new Intl.NumberFormat('id-ID', {
+      minimumIntegerDigits: 2,
+      useGrouping: false,
+    }).format(item);
+  });
+
+  return totalDuration.join(':');
+};
 
 function PlaylistInfo() {
   const { dataState } = useContext(MainContext);
 
-  const [ytIframe, setYtIframe] = useState({});
-  useEffect(() => {
-    if (dataState.playlist.data)
-      setYtIframe(
-        parse(dataState.playlist.data.items[0].player.embedHtml).props
-      );
-  }, [dataState]);
+  // get all data that will be used
+  const {
+    playlist: {
+      data: {
+        items: [
+          {
+            id,
+            player: { embedHtml },
+            snippet: { title, publishedAt },
+            contentDetails: { itemCount },
+          },
+        ],
+      },
+    },
+    playlistItems: {
+      data: { items: playlistItems },
+    },
+    videos: {
+      data: { items: videoItems },
+    },
+  } = dataState;
+
+  const {
+    contentDetails: { videoPublishedAt: lastVideoAdded },
+  } = playlistItems[playlistItems.length - 1];
+
+  const ytIframe = useIframeProps(embedHtml);
+
   return (
     <section className="mb-5 playlist-info">
       <Container fluid>
@@ -29,15 +82,14 @@ function PlaylistInfo() {
                     className="row d-flex"
                     style={{ backgroundColor: 'rgba(0, 0, 0, 0.03)' }}
                   >
-                    <h3 className="mb-0">ReactJS Tutorial for Beginners</h3>
+                    <h3 className="mb-0">{title}</h3>
                   </ListGroup.Item>
                   <ListGroup.Item as="li" className="row d-flex">
                     <Col sm={4} xs={12} className="fw-bold">
                       Playlist ID
                     </Col>
                     <Col sm={true} xs={true}>
-                      <b className="colon">:</b>{' '}
-                      PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3
+                      <b className="colon">:</b> {id}
                     </Col>
                   </ListGroup.Item>
                   <ListGroup.Item as="li" className="row d-flex">
@@ -45,7 +97,12 @@ function PlaylistInfo() {
                       Published date
                     </Col>
                     <Col sm={true} xs={true}>
-                      <b className="colon">:</b> 29 Oktober 2018
+                      <b className="colon">:</b>{' '}
+                      {new Date(publishedAt).toLocaleDateString('en-AU', {
+                        year: 'numeric',
+                        month: 'long',
+                        day: 'numeric',
+                      })}
                     </Col>
                   </ListGroup.Item>
                   <ListGroup.Item as="li" className="row d-flex">
@@ -53,15 +110,22 @@ function PlaylistInfo() {
                       Published time
                     </Col>
                     <Col sm={true} xs={true}>
-                      <b className="colon">:</b> 7:01:47 PM
+                      <b className="colon">:</b>{' '}
+                      {new Date(publishedAt).toLocaleTimeString()}
                     </Col>
                   </ListGroup.Item>
                   <ListGroup.Item as="li" className="row d-flex">
                     <Col sm={4} xs={12} className="fw-bold">
-                      Last video uploaded
+                      Last video added
                     </Col>
                     <Col sm={true} xs={true}>
-                      <b className="colon">:</b> 14 Maret 2021 at 6:00:16 PM
+                      <b className="colon">:</b>{' '}
+                      {new Date(lastVideoAdded).toLocaleDateString('en-AU', {
+                        year: 'numeric',
+                        month: 'long',
+                        day: 'numeric',
+                      })}{' '}
+                      at {new Date(lastVideoAdded).toLocaleTimeString()}
                     </Col>
                   </ListGroup.Item>
                   <ListGroup.Item as="li" className="row d-flex">
@@ -69,7 +133,7 @@ function PlaylistInfo() {
                       Total duration
                     </Col>
                     <Col sm={true} xs={true}>
-                      <b className="colon">:</b> 14:34:42
+                      <b className="colon">:</b> {countDuration(videoItems)}
                     </Col>
                   </ListGroup.Item>
                   <ListGroup.Item as="li" className="row d-flex">
@@ -77,7 +141,14 @@ function PlaylistInfo() {
                       Total videos
                     </Col>
                     <Col sm={true} xs={true}>
-                      <b className="colon">:</b> 118 (2 unavailable videos)
+                      <b className="colon">:</b> {itemCount}{' '}
+                      {itemCount === playlistItems.length
+                        ? ''
+                        : `(${
+                            itemCount - playlistItems.length
+                          } unavailable video${
+                            itemCount - playlistItems.length === 1 ? '' : 's'
+                          })`}
                     </Col>
                   </ListGroup.Item>
                 </ListGroup>

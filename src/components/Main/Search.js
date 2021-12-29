@@ -103,12 +103,21 @@ function Search() {
             id: videoId,
           }
         );
-        getData(endpoint, 'SET_VIDEOS');
+        await getData(endpoint, 'SET_VIDEOS');
 
         if (!nextPageToken) break;
       }
     } catch (error) {
-      return error.message;
+      console.log(error.message);
+      dispatch({
+        type: 'SET_PLAYLIST',
+        payload: {
+          data: null,
+          error: {
+            message: 'Please check your input or your internet connection',
+          },
+        },
+      });
     }
 
     dispatch({ type: 'SET_IS_LOADING', payload: { isLoading: false } });

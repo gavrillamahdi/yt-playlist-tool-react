@@ -1,9 +1,14 @@
-import React, { useContext, createContext, useReducer } from 'react';
-// import parse from 'html-react-parser';
+import React, {
+  useContext,
+  createContext,
+  useReducer,
+  useCallback,
+} from 'react';
 
 import Search from './Search';
 import PlaylistInfo from './PlaylistInfo';
 import AdditionalInfo from './AdditionalInfo/AdditionalInfo';
+import Loading from './Loading';
 import { StoredKeyContext } from '../../App';
 
 const MainContext = createContext();
@@ -96,11 +101,18 @@ function Main() {
       const response = await fetch(endpoint);
       const data = await response.json();
 
-      if (data.error) {
+      if (data.error || !data.items.length) {
         dispatch({
           type: action,
-          payload: { data: null, error: data.error },
+          payload: {
+            data: null,
+            error: data.error || {
+              message:
+                'Playlist either not found or playlist visibility is not public',
+            },
+          },
         });
+        throw new Error();
       } else {
         dispatch({
           type: action,
@@ -114,12 +126,64 @@ function Main() {
         type: action,
         payload: {
           data: null,
-          error: { message: 'please check your internet conection' },
+          error: {
+            message: 'Please check your input or your internet conection',
+          },
         },
       });
       throw new Error();
     }
   };
+
+  const componentToRender = useCallback(() => {
+    const {
+      isLoading,
+      playlist: { data, error },
+    } = dataState;
+
+    if (!data) {
+      if (isLoading) {
+        return (
+          <div className="d-flex align-items-center justify-content-center flex-grow-1">
+            <Loading />
+          </div>
+        );
+      }
+
+      if (error) {
+        return (
+          <div className="d-flex align-items-center justify-content-center flex-grow-1">
+            <h2 className="text-muted opacity-50 fw-normal text-center">
+              {error.message}
+            </h2>
+          </div>
+        );
+      }
+
+      return (
+        <div className="d-flex align-items-center justify-content-center flex-grow-1">
+          <h2 className="text-muted opacity-50 fw-normal text-center">
+            Input any youtube playlist link to start
+          </h2>
+        </div>
+      );
+    }
+
+    if (isLoading) {
+      return (
+        <div className="d-flex align-items-center justify-content-center flex-grow-1">
+          <Loading />
+        </div>
+      );
+    }
+
+    return (
+      <>
+        <PlaylistInfo />
+        <AdditionalInfo />
+      </>
+    );
+  }, [dataState]);
 
   return (
     <MainContext.Provider
@@ -132,10 +196,7 @@ function Main() {
     >
       <main>
         <Search />
-        <>
-          <PlaylistInfo />
-          <AdditionalInfo />
-        </>
+        {componentToRender()}
       </main>
     </MainContext.Provider>
   );
