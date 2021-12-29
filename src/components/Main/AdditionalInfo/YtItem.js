@@ -23,7 +23,7 @@ function YtItem({ data, setVideoData }) {
         const {
           contentDetails: { videoId, videoPublishedAt },
           snippet: {
-            channelTitle,
+            videoOwnerChannelTitle,
             title,
             description,
             thumbnails: {
@@ -74,7 +74,9 @@ function YtItem({ data, setVideoData }) {
                   <Card.Body className="p-2">
                     <Card.Title as="h6">{title}</Card.Title>
                     <Card.Text className="m-0">
-                      <small className="text-muted">{channelTitle}</small>
+                      <small className="text-muted">
+                        {videoOwnerChannelTitle}
+                      </small>
                     </Card.Text>
                     <Card.Text className="m-0">
                       <small

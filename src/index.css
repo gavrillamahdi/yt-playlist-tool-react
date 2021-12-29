@@ -58,6 +58,11 @@ h6 {
   word-break: break-all;
 }
 
+.description {
+  hyphens: auto;
+  word-break: break-word;
+}
+
 .description a {
   background-image: linear-gradient(90deg, #ff6649, #ff6649);
   background-size: 0% 2px;

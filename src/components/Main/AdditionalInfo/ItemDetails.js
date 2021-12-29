@@ -10,7 +10,7 @@ const descriptionMarkUp = (desc) => {
   const regNewLine = /\n/g;
   const regLink =
     /(\bhttps?:\/\/[-A-Za-z0-9+&@#/%?=~_|!:,\.;]*[-A-Za-z0-9+&@#/%=~_|])/g; //eslint-disable-line no-useless-escape
-  const regHashtag = /#([a-zA-Z_]+[0-9a-zA-Z_]*)/g;
+  const regHashtag = /\B#([a-zA-Z_]+[0-9a-zA-Z_]*)/g;
 
   const stringHtml = desc
     .replace(regNewLine, '<br/>')
