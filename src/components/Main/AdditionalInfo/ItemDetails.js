@@ -1,8 +1,8 @@
 import React from 'react';
-import { Card, Row, Table } from 'react-bootstrap';
+import { Card, Table } from 'react-bootstrap';
 import parse from 'html-react-parser';
 
-import ChannelInfo from './ChannelInfo';
+// import ChannelInfo from './ChannelInfo';
 import { useIframeProps } from '../../../hooks/useIframeProps';
 import { repairDuration } from '../../../lib/repairDuration';
 
@@ -50,9 +50,9 @@ function ItemDetails({ data }) {
       </div>
       <Card.Body>
         <h5>{videoTitle}</h5>
-        <Row className="g-0 align-items-center my-1 mt-3">
+        {/* <Row className="g-0 align-items-center my-1 mt-3">
           <ChannelInfo xsCol={4} />
-        </Row>
+        </Row> */}
 
         <Table borderless className="mt-3">
           <tbody>
