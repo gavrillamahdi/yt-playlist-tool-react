@@ -71,6 +71,7 @@ function ModalApi({ show, setShow }) {
       onShow={onShowHandler}
       backdrop="static"
       keyboard={false}
+      centered
     >
       <Modal.Header closeButton={storedKey ? true : false}>
         <Modal.Title as="h5">
