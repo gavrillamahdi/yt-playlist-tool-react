@@ -204,17 +204,3 @@ function Main() {
 
 export { MainContext };
 export default Main;
-
-// else if (data.items.length === 0) {
-//   dispatch({
-//     type: action,
-//     payload: {
-//       isLoading: false,
-//       error: {
-//         code: 404,
-//         message:
-//           'Playlist either not found or playlist visibility is not public',
-//       },
-//     },
-//   });
-// }
