@@ -7,7 +7,7 @@ function Footer() {
       <p className="mx-4 me-sm-auto my-0">
         Youtube Playlist Tools &copy; 2021, by{' '}
         <a
-          href="https://github.com/gavrillamahdi/gavrillamahdi.github.io"
+          href="https://github.com/gavrillamahdi/yt-playlist-tool-react"
           target="_blank"
           rel="noopener noreferrer"
         >
