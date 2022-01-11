@@ -108,7 +108,7 @@ function Search() {
         if (!nextPageToken) break;
       }
     } catch (error) {
-      console.log(error.message);
+      console.log(error.message); //eslint-disable-line
       dispatch({
         type: 'SET_PLAYLIST',
         payload: {

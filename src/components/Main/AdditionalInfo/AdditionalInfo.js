@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { Container, Row, Col } from 'react-bootstrap';
 
 import ChannelInfo from './ChannelInfo';
-import YtItem from './YtItem';
+import YtItems from './YtItems';
 import ItemDetails from './ItemDetails';
 
 function AdditionalInfo() {
@@ -18,7 +18,7 @@ function AdditionalInfo() {
                 <ChannelInfo />
               </Row>
               <Row className="g-1 g-md-2">
-                <YtItem data={videoData} setVideoData={setVideoData} />
+                <YtItems data={videoData} setVideoData={setVideoData} />
               </Row>
             </Container>
           </Col>

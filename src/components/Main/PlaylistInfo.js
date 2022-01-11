@@ -1,4 +1,4 @@
-import React, { useContext } from 'react';
+import React, { useState, useContext } from 'react';
 import { Container, Row, Col, Card, ListGroup } from 'react-bootstrap';
 
 import { useIframeProps } from '../../hooks/useIframeProps';
@@ -38,6 +38,7 @@ const countDuration = (items) => {
 
 function PlaylistInfo() {
   const { dataState } = useContext(MainContext);
+  const [isIframeLoaded, setIsIframeLoaded] = useState(false);
 
   // get all data that will be used
   const {
@@ -72,8 +73,16 @@ function PlaylistInfo() {
       <Container fluid>
         <Row>
           <Col md={6} className="mx-auto">
-            <Card className="shadow">
-              <Card.Img variant="top" as="iframe" {...ytIframe} />
+            <Card
+              className={`shadow ${isIframeLoaded ? '' : 'placeholder-glow'}`}
+            >
+              <Card.Img
+                className={isIframeLoaded || 'placeholder'}
+                variant="top"
+                as="iframe"
+                {...ytIframe}
+                onLoad={() => setIsIframeLoaded(true)}
+              />
 
               <Card.Body>
                 <ListGroup as="ul" className="px-3">

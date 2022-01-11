@@ -1,5 +1,5 @@
-import React, { useContext } from 'react';
-import { Col, Card, Image } from 'react-bootstrap';
+import React, { useState, useEffect, useContext } from 'react';
+import { Col, Card, Image, Placeholder } from 'react-bootstrap';
 
 import { MainContext } from '../Main';
 
@@ -17,6 +17,7 @@ const subsCountPlaceholder = (subs) => {
 
 function ChannelInfo({ xsCol = 6 }) {
   const { dataState } = useContext(MainContext);
+  const [isImageLoaded, setIsImageLoaded] = useState(false);
 
   const {
     channel: {
@@ -36,15 +37,34 @@ function ChannelInfo({ xsCol = 6 }) {
     },
   } = dataState;
 
+  useEffect(() => {
+    setIsImageLoaded(false);
+  }, [url]);
+
   return (
     <>
       <Col
         md={4}
         xs={xsCol}
-        className="my-auto"
-        style={{ width: '5vw', maxWidth: '80px', minWidth: '50px' }}
+        className={`my-auto ${isImageLoaded ? '' : 'placeholder-glow'}`}
+        style={{
+          width: '5vw',
+          maxWidth: '80px',
+          minWidth: '50px',
+          aspectRatio: '1 / 1',
+        }}
       >
-        <Image fluid roundedCircle src={url} alt={title} />
+        {isImageLoaded || (
+          <Placeholder className="w-100 h-100 rounded-circle" />
+        )}
+        <Image
+          fluid
+          roundedCircle
+          src={url}
+          alt={title}
+          onLoad={() => setIsImageLoaded(true)}
+          hidden={!isImageLoaded}
+        />
       </Col>
       <Col md xs>
         <Card.Body className="p-2">

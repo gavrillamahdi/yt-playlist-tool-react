@@ -16,7 +16,7 @@ function validReducer(state, action) {
     case 'SET_ERROR':
       return { ...state, error: action.payload, isValid: false };
     default:
-      throw new Error("can't handle action type");
+      throw new Error("can't handle action type"); //eslint-disable-line
   }
 }
 

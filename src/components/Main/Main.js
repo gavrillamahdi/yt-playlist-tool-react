@@ -86,7 +86,7 @@ const dataReducer = (state, { type, payload }) => {
         },
       };
     default:
-      throw new Error("can't handle action type");
+      throw new Error("can't handle action type"); //eslint-disable-line
   }
 };
 

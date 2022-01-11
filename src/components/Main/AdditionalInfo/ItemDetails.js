@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState, useEffect } from 'react';
 import { Card, Table } from 'react-bootstrap';
 import parse from 'html-react-parser';
 
@@ -27,6 +27,8 @@ const descriptionMarkUp = (desc) => {
 };
 
 function ItemDetails({ data }) {
+  const [isIframeLoaded, setIsIframeLoaded] = useState(false);
+
   // get all data that will be used
   const {
     videoTitle,
@@ -39,14 +41,28 @@ function ItemDetails({ data }) {
 
   const ytIframe = useIframeProps(embedHtml);
 
+  useEffect(() => {
+    setIsIframeLoaded(false);
+  }, [ytIframe.src]);
+
   return (
     <Card
       border={false}
       className="shadow overflow-auto sticky-top w-100"
       style={{ maxHeight: '100vh' }}
     >
-      <div className="yt-embed-container">
-        <Card.Img variant="top" as="iframe" {...ytIframe} />
+      <div
+        className={`yt-embed-container ${
+          isIframeLoaded ? '' : 'placeholder-glow'
+        }`}
+      >
+        <Card.Img
+          className={isIframeLoaded || 'placeholder'}
+          variant="top"
+          as="iframe"
+          {...ytIframe}
+          onLoad={() => setIsIframeLoaded(true)}
+        />
       </div>
       <Card.Body>
         <h5>{videoTitle}</h5>

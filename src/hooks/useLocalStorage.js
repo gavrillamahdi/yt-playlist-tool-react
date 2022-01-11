@@ -17,7 +17,7 @@ export const useLocalStorage = (key, initialValue) => {
       setStoredValue(valueToStore);
       localStorage.setItem(key, JSON.stringify(valueToStore));
     } catch (error) {
-      console.log(error);
+      console.log(error); //eslint-disable-line
     }
   };
 
