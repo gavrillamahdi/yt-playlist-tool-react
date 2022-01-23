@@ -94,6 +94,12 @@ function Search() {
           .map((item) => item.contentDetails.videoId)
           .join();
 
+        // continue the iteration if there is no public videos left and break iteration if there is no nexPageToken
+        if (!videoId) {
+          if (!nextPageToken) break;
+          continue;
+        }
+
         // get videos data
         endpoint = makeEndpoint(
           'https://www.googleapis.com/youtube/v3/videos',

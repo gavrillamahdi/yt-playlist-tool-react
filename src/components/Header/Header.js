@@ -1,6 +1,7 @@
 import { useState, useEffect, useContext } from 'react';
 import { Button, Navbar, Container } from 'react-bootstrap';
 import ModalApi from './Modal';
+import { ReactComponent as Icon } from './icon.svg';
 import { StoredKeyContext } from '../../App';
 
 function Header() {
@@ -20,10 +21,14 @@ function Header() {
           expand={false}
         >
           <Container fluid>
-            <Navbar.Brand as="h1" className="mb-0 text-light mx-4">
-              Youtube Playlist Tools
-            </Navbar.Brand>
-
+            {
+              // eslint-disable-next-line
+              <a className="text-decoration-none" href="#">
+                <Navbar.Brand as="h1" className="mb-0 text-light mx-4">
+                  <Icon /> Youtube Playlist Tools
+                </Navbar.Brand>
+              </a>
+            }
             <Button
               variant="outline-light"
               className="mx-4"

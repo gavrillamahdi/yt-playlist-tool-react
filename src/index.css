@@ -95,15 +95,29 @@ h6 {
 }
 
 .github,
-.twitter,
+.email,
 .instagram {
   fill: #ff6649;
 }
 
 .github:hover,
-.twitter:hover,
+.email:hover,
 .instagram:hover {
   fill: #ccd3da;
+}
+
+.copy {
+  width: calc(1.3rem + 0.6vw);
+  cursor: pointer;
+  fill: #6c757d;
+}
+
+.copy:hover {
+  fill: #2c394b;
+}
+
+.copy:active {
+  fill: #ff6649;
 }
 
 .contact li {
