@@ -13,13 +13,8 @@ function Header() {
 
   return (
     <>
-      <header>
-        <Navbar
-          variant="light"
-          bg="danger"
-          className="shadow-sm"
-          expand={false}
-        >
+      <header className="sticky-top shadow-sm" style={{ zIndex: 1030 }}>
+        <Navbar variant="light" bg="danger" expand={false}>
           <Container fluid>
             {
               // eslint-disable-next-line

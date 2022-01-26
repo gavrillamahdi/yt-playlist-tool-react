@@ -31,9 +31,9 @@ function Item({
 
   return (
     <>
-      <Col md={12} sm={4} xs={6} onClick={clickHandler}>
+      <Col className="mb-3" md={12} sm={4} xs={6} onClick={clickHandler}>
         <Card
-          className={`mb-3 px-2 shadow-sm border-0 item ${
+          className={`px-2 shadow-sm border-0 h-100 item ${
             videoId === data.id ? 'active' : ''
           }`}
         >

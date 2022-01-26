@@ -1,11 +1,13 @@
 import React, { useState, useEffect } from 'react';
 import { Card, Table } from 'react-bootstrap';
 import parse from 'html-react-parser';
+import _ from 'lodash';
 
 // import ChannelInfo from './ChannelInfo';
 import { useIframeProps } from '../../../hooks/useIframeProps';
 import { repairDuration } from '../../../lib/repairDuration';
 
+// make function to fix description link
 const descriptionMarkUp = (desc) => {
   const regNewLine = /\n/g;
   const regLink =
@@ -22,12 +24,33 @@ const descriptionMarkUp = (desc) => {
       regHashtag,
       '<a href="https://www.youtube.com/hashtag/$1" target="_blank" rel="noopener noreferrer">#$1</a>'
     );
+  // console.log(parse(stringHtml));
 
-  return parse(stringHtml);
+  // truncate the long link
+  return parse(stringHtml).map((item) => {
+    if (item.type === 'a' && !item.props.children.includes('#')) {
+      const { props } = item;
+      const { children } = props;
+      return {
+        ...item,
+        props: {
+          ...props,
+          children: _.truncate(children, { length: 40 }),
+        },
+      };
+    }
+    return item;
+  });
+};
+
+const getHeaderHeight = () => {
+  const header = document.querySelector('header');
+  return window.getComputedStyle(header).height;
 };
 
 function ItemDetails({ data }) {
   const [isIframeLoaded, setIsIframeLoaded] = useState(false);
+  const [headerHeight, setHeaderHeight] = useState(getHeaderHeight);
 
   // get all data that will be used
   const {
@@ -45,11 +68,22 @@ function ItemDetails({ data }) {
     setIsIframeLoaded(false);
   }, [ytIframe.src]);
 
+  useEffect(() => {
+    const updateHeaderHeight = () => {
+      setHeaderHeight(getHeaderHeight);
+    };
+    window.addEventListener('resize', updateHeaderHeight);
+
+    return () => {
+      window.removeEventListener('resize', updateHeaderHeight);
+    };
+  }, []); //eslint-disable-line
+
   return (
     <Card
       border={false}
       className="shadow overflow-auto sticky-top w-100"
-      style={{ maxHeight: '100vh' }}
+      style={{ maxHeight: `calc(100vh - ${headerHeight})`, top: headerHeight }}
     >
       <div
         className={`yt-embed-container ${
