@@ -19,14 +19,14 @@ function Header() {
             {
               // eslint-disable-next-line
               <a className="text-decoration-none" href="#">
-                <Navbar.Brand as="h1" className="mb-0 text-light mx-4">
+                <Navbar.Brand as="h1" className="mb-0 text-light mx-md-4">
                   <Icon /> Youtube Playlist Tools
                 </Navbar.Brand>
               </a>
             }
             <Button
               variant="outline-light"
-              className="mx-4"
+              className="mx-md-4"
               onClick={() => setShow(true)}
             >
               Change API key
